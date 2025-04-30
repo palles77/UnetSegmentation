@@ -1,0 +1,31 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{arrows, shapes, positioning}
+
+\begin{document}
+
+\begin{tikzpicture}[
+  node distance = 0.8cm,
+  >=stealth',                % arrow tip
+  every node/.style = {rectangle, draw, text width=14em, text centered, minimum height=2em},
+  font=\small
+]
+
+% Nodes (flowchart boxes)
+\node (step1) {Step 1 - Data clean up};
+\node (step2) [below=of step1] {Step 2 - Training data preparation};
+\node (step3) [below=of step2] {Step 3 - U-NET network training};
+\node (step4) [below=of step3] {Step 4 - U-NET preliminary multi resolution segmentation};
+\node (step5) [below=of step4] {Step 5 - CNN training for segmentation results assessment};
+\node (step6) [below=of step5] {Step 6 - Final segmentation using U-NET and CNN for optimal results search};
+
+% Directed edges
+\draw [->] (step1) -- (step2);
+\draw [->] (step2) -- (step3);
+\draw [->] (step3) -- (step4);
+\draw [->] (step4) -- (step5);
+\draw [->] (step5) -- (step6);
+
+\end{tikzpicture}
+
+\end{document}

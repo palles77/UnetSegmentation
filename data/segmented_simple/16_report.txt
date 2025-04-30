@@ -1,0 +1,26 @@
+﻿Directory Analysis Report
+=========================
+Directory Name: 16
+
+Parameters:
+-----------
+Final Optimal Segmentation Window Step: 16
+
+Processing Time Summary:
+------------------------
+Total Time Elapsed: 4,504.9400 seconds
+
+Segmentation Quality Analysis (Jaccard Distance):
+-------------------------------------------------
+Total Samples: 150
+Average Jaccard Distance: 0.5626
+Standard Deviation: 0.0851
+Minimum Jaccard Distance: 0.2626
+Maximum Jaccard Distance: 0.7153
+
+Interpretation:
+---------------
+- A lower Jaccard Distance means better segmentation accuracy.
+- A high standard deviation suggests variability in segmentation performance.
+- If the average Jaccard Distance is close to 0, the model performed well.
+- If the maximum Jaccard Distance is high, some images were segmented poorly.

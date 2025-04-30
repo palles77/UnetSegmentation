@@ -1,0 +1,1650 @@
+Segmenting 01_dr.png...
+[01_dr.png][_vs][Progress][Starting segmentation]
+[01_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\01_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ohqxzgzpqi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ohqxzgzpqi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ohqxzgzpqi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ohqxzgzpqi/output_100.png
+Time elapsed: 128.48 seconds
+[01_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.754495351692, with regions count: 1378]
+Ground image file: 01_dr.png, segmented file Jaccard Distance: 0.395756
+Average Jaccard Distance: 0.395756
+Segmenting 01_g.png...
+[01_g.png][_vs][Progress][Starting segmentation]
+[01_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\01_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ficusksrzz/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ficusksrzz\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ficusksrzz\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ficusksrzz/output_100.png
+Time elapsed: 127.80 seconds
+[01_g.png][_vs][Progress][Finished final segmentation with statistic: 8.826556342653406, with regions count: 718]
+Ground image file: 01_g.png, segmented file Jaccard Distance: 0.543460
+Average Jaccard Distance: 0.469608
+Segmenting 01_h.png...
+[01_h.png][_vs][Progress][Starting segmentation]
+[01_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\01_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_xusidzgcfn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_xusidzgcfn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_xusidzgcfn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_xusidzgcfn/output_100.png
+Time elapsed: 128.12 seconds
+[01_h.png][_vs][Progress][Finished final segmentation with statistic: 9.689782127666229, with regions count: 1232]
+Ground image file: 01_h.png, segmented file Jaccard Distance: 0.660272
+Average Jaccard Distance: 0.533163
+Segmenting 02_dr.png...
+[02_dr.png][_vs][Progress][Starting segmentation]
+[02_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\02_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_voyfjdkwdv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_voyfjdkwdv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_voyfjdkwdv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_voyfjdkwdv/output_100.png
+Time elapsed: 129.45 seconds
+[02_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.036939192781634, with regions count: 859]
+Ground image file: 02_dr.png, segmented file Jaccard Distance: 0.461270
+Average Jaccard Distance: 0.515189
+Segmenting 02_g.png...
+[02_g.png][_vs][Progress][Starting segmentation]
+[02_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\02_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_xejwyrpyun/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_xejwyrpyun\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_xejwyrpyun\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_xejwyrpyun/output_100.png
+Time elapsed: 128.25 seconds
+[02_g.png][_vs][Progress][Finished final segmentation with statistic: 9.500407069024833, with regions count: 885]
+Ground image file: 02_g.png, segmented file Jaccard Distance: 0.577515
+Average Jaccard Distance: 0.527655
+Segmenting 02_h.png...
+[02_h.png][_vs][Progress][Starting segmentation]
+[02_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\02_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_hjozkstyft/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_hjozkstyft\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_hjozkstyft\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_hjozkstyft/output_100.png
+Time elapsed: 128.33 seconds
+[02_h.png][_vs][Progress][Finished final segmentation with statistic: 10.212057061987865, with regions count: 1124]
+Ground image file: 02_h.png, segmented file Jaccard Distance: 0.698311
+Average Jaccard Distance: 0.556097
+Segmenting 03_dr.png...
+[03_dr.png][_vs][Progress][Starting segmentation]
+[03_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\03_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kartmuvstj/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kartmuvstj\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kartmuvstj\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kartmuvstj/output_100.png
+Time elapsed: 128.28 seconds
+[03_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.474433817320323, with regions count: 1379]
+Ground image file: 03_dr.png, segmented file Jaccard Distance: 0.499100
+Average Jaccard Distance: 0.547955
+Segmenting 03_g.png...
+[03_g.png][_vs][Progress][Starting segmentation]
+[03_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\03_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kpdsvfvkyk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kpdsvfvkyk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kpdsvfvkyk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kpdsvfvkyk/output_100.png
+Time elapsed: 128.27 seconds
+[03_g.png][_vs][Progress][Finished final segmentation with statistic: 7.2120609714142745, with regions count: 874]
+Ground image file: 03_g.png, segmented file Jaccard Distance: 0.564196
+Average Jaccard Distance: 0.549985
+Segmenting 03_h.png...
+[03_h.png][_vs][Progress][Starting segmentation]
+[03_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\03_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_afjtrxjflv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_afjtrxjflv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_afjtrxjflv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_afjtrxjflv/output_100.png
+Time elapsed: 128.42 seconds
+[03_h.png][_vs][Progress][Finished final segmentation with statistic: 9.459052667792582, with regions count: 938]
+Ground image file: 03_h.png, segmented file Jaccard Distance: 0.615664
+Average Jaccard Distance: 0.557283
+Segmenting 04_dr.png...
+[04_dr.png][_vs][Progress][Starting segmentation]
+[04_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\04_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_eddinplqhv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_eddinplqhv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_eddinplqhv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_eddinplqhv/output_100.png
+Time elapsed: 128.27 seconds
+[04_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.505379370738725, with regions count: 1154]
+Ground image file: 04_dr.png, segmented file Jaccard Distance: 0.462804
+Average Jaccard Distance: 0.547835
+Segmenting 04_g.png...
+[04_g.png][_vs][Progress][Starting segmentation]
+[04_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\04_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rpjhoijmst/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rpjhoijmst\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rpjhoijmst\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rpjhoijmst/output_100.png
+Time elapsed: 128.57 seconds
+[04_g.png][_vs][Progress][Finished final segmentation with statistic: 7.824631438825295, with regions count: 841]
+Ground image file: 04_g.png, segmented file Jaccard Distance: 0.579266
+Average Jaccard Distance: 0.550692
+Segmenting 04_h.png...
+[04_h.png][_vs][Progress][Starting segmentation]
+[04_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\04_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_diajnjimcx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_diajnjimcx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_diajnjimcx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_diajnjimcx/output_100.png
+Time elapsed: 128.26 seconds
+[04_h.png][_vs][Progress][Finished final segmentation with statistic: 9.4375874734159, with regions count: 927]
+Ground image file: 04_h.png, segmented file Jaccard Distance: 0.632847
+Average Jaccard Distance: 0.557539
+Segmenting 05_dr.png...
+[05_dr.png][_vs][Progress][Starting segmentation]
+[05_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\05_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_udnyajfrsw/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_udnyajfrsw\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_udnyajfrsw\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_udnyajfrsw/output_100.png
+Time elapsed: 128.63 seconds
+[05_dr.png][_vs][Progress][Finished final segmentation with statistic: 8.666392029461438, with regions count: 1241]
+Ground image file: 05_dr.png, segmented file Jaccard Distance: 0.552581
+Average Jaccard Distance: 0.557157
+Segmenting 05_g.png...
+[05_g.png][_vs][Progress][Starting segmentation]
+[05_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\05_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_lyrdfvhpne/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_lyrdfvhpne\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_lyrdfvhpne\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_lyrdfvhpne/output_100.png
+Time elapsed: 128.11 seconds
+[05_g.png][_vs][Progress][Finished final segmentation with statistic: 8.178739952774128, with regions count: 857]
+Ground image file: 05_g.png, segmented file Jaccard Distance: 0.604226
+Average Jaccard Distance: 0.560519
+Segmenting 05_h.png...
+[05_h.png][_vs][Progress][Starting segmentation]
+[05_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\05_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_wrtchwxqzf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_wrtchwxqzf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_wrtchwxqzf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_wrtchwxqzf/output_100.png
+Time elapsed: 128.45 seconds
+[05_h.png][_vs][Progress][Finished final segmentation with statistic: 8.582864690842559, with regions count: 700]
+Ground image file: 05_h.png, segmented file Jaccard Distance: 0.675203
+Average Jaccard Distance: 0.568165
+Segmenting 06_dr.png...
+[06_dr.png][_vs][Progress][Starting segmentation]
+[06_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\06_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vdagjfbnrx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vdagjfbnrx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vdagjfbnrx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vdagjfbnrx/output_100.png
+Time elapsed: 128.32 seconds
+[06_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.85297624632514, with regions count: 2640]
+Ground image file: 06_dr.png, segmented file Jaccard Distance: 0.452436
+Average Jaccard Distance: 0.560932
+Segmenting 06_g.png...
+[06_g.png][_vs][Progress][Starting segmentation]
+[06_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\06_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_gywhmrmedh/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_gywhmrmedh\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_gywhmrmedh\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_gywhmrmedh/output_100.png
+Time elapsed: 128.61 seconds
+[06_g.png][_vs][Progress][Finished final segmentation with statistic: 8.283451495746544, with regions count: 856]
+Ground image file: 06_g.png, segmented file Jaccard Distance: 0.593803
+Average Jaccard Distance: 0.562865
+Segmenting 06_h.png...
+[06_h.png][_vs][Progress][Starting segmentation]
+[06_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\06_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_umplvdspsl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_umplvdspsl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_umplvdspsl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_umplvdspsl/output_100.png
+Time elapsed: 128.32 seconds
+[06_h.png][_vs][Progress][Finished final segmentation with statistic: 10.339736485112905, with regions count: 781]
+Ground image file: 06_h.png, segmented file Jaccard Distance: 0.698477
+Average Jaccard Distance: 0.570399
+Segmenting 07_dr.png...
+[07_dr.png][_vs][Progress][Starting segmentation]
+[07_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\07_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_npzzxzvpxm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_npzzxzvpxm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_npzzxzvpxm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_npzzxzvpxm/output_100.png
+Time elapsed: 128.31 seconds
+[07_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.545103541158442, with regions count: 1082]
+Ground image file: 07_dr.png, segmented file Jaccard Distance: 0.561118
+Average Jaccard Distance: 0.569911
+Segmenting 07_g.png...
+[07_g.png][_vs][Progress][Starting segmentation]
+[07_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\07_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_nfeohybmhx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_nfeohybmhx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_nfeohybmhx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_nfeohybmhx/output_100.png
+Time elapsed: 128.35 seconds
+[07_g.png][_vs][Progress][Finished final segmentation with statistic: 8.827936858854068, with regions count: 1034]
+Ground image file: 07_g.png, segmented file Jaccard Distance: 0.572062
+Average Jaccard Distance: 0.570018
+Segmenting 07_h.png...
+[07_h.png][_vs][Progress][Starting segmentation]
+[07_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\07_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_eczkckxkmf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_eczkckxkmf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_eczkckxkmf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_eczkckxkmf/output_100.png
+Time elapsed: 128.52 seconds
+[07_h.png][_vs][Progress][Finished final segmentation with statistic: 8.791090514949646, with regions count: 831]
+Ground image file: 07_h.png, segmented file Jaccard Distance: 0.679919
+Average Jaccard Distance: 0.575252
+Segmenting 08_dr.png...
+[08_dr.png][_vs][Progress][Starting segmentation]
+[08_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\08_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_hmfsxeakxg/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_hmfsxeakxg\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_hmfsxeakxg\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_hmfsxeakxg/output_100.png
+Time elapsed: 128.68 seconds
+[08_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.437227806186277, with regions count: 1062]
+Ground image file: 08_dr.png, segmented file Jaccard Distance: 0.538021
+Average Jaccard Distance: 0.573559
+Segmenting 08_g.png...
+[08_g.png][_vs][Progress][Starting segmentation]
+[08_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\08_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ccrbotzmcv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ccrbotzmcv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ccrbotzmcv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ccrbotzmcv/output_100.png
+Time elapsed: 128.45 seconds
+[08_g.png][_vs][Progress][Finished final segmentation with statistic: 9.594648679395759, with regions count: 753]
+Ground image file: 08_g.png, segmented file Jaccard Distance: 0.576319
+Average Jaccard Distance: 0.573679
+Segmenting 08_h.png...
+[08_h.png][_vs][Progress][Starting segmentation]
+[08_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\08_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_amizipcrnm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_amizipcrnm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_amizipcrnm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_amizipcrnm/output_100.png
+Time elapsed: 128.53 seconds
+[08_h.png][_vs][Progress][Finished final segmentation with statistic: 9.243765442234315, with regions count: 1181]
+Ground image file: 08_h.png, segmented file Jaccard Distance: 0.692491
+Average Jaccard Distance: 0.578630
+Segmenting 09_dr.png...
+[09_dr.png][_vs][Progress][Starting segmentation]
+[09_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\09_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_hgqfcstqmk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_hgqfcstqmk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_hgqfcstqmk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_hgqfcstqmk/output_100.png
+Time elapsed: 128.60 seconds
+[09_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.39360642631513, with regions count: 1797]
+Ground image file: 09_dr.png, segmented file Jaccard Distance: 0.490145
+Average Jaccard Distance: 0.575090
+Segmenting 09_g.png...
+[09_g.png][_vs][Progress][Starting segmentation]
+[09_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\09_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rimfdwmhrg/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rimfdwmhrg\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rimfdwmhrg\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rimfdwmhrg/output_100.png
+Time elapsed: 128.57 seconds
+[09_g.png][_vs][Progress][Finished final segmentation with statistic: 8.79259320072559, with regions count: 674]
+Ground image file: 09_g.png, segmented file Jaccard Distance: 0.588194
+Average Jaccard Distance: 0.575594
+Segmenting 09_h.png...
+[09_h.png][_vs][Progress][Starting segmentation]
+[09_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\09_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_csmjpamkxt/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_csmjpamkxt\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_csmjpamkxt\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_csmjpamkxt/output_100.png
+Time elapsed: 128.41 seconds
+[09_h.png][_vs][Progress][Finished final segmentation with statistic: 8.263440119315694, with regions count: 1749]
+Ground image file: 09_h.png, segmented file Jaccard Distance: 0.619636
+Average Jaccard Distance: 0.577226
+Segmenting 10_dr.png...
+[10_dr.png][_vs][Progress][Starting segmentation]
+[10_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\10_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_lzbjmstgfe/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_lzbjmstgfe\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_lzbjmstgfe\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_lzbjmstgfe/output_100.png
+Time elapsed: 128.65 seconds
+[10_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.332069611246638, with regions count: 569]
+Ground image file: 10_dr.png, segmented file Jaccard Distance: 0.592320
+Average Jaccard Distance: 0.577765
+Segmenting 10_g.png...
+[10_g.png][_vs][Progress][Starting segmentation]
+[10_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\10_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_auedqzgkdk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_auedqzgkdk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_auedqzgkdk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_auedqzgkdk/output_100.png
+Time elapsed: 128.40 seconds
+[10_g.png][_vs][Progress][Finished final segmentation with statistic: 8.905282416963782, with regions count: 1297]
+Ground image file: 10_g.png, segmented file Jaccard Distance: 0.584042
+Average Jaccard Distance: 0.577981
+Segmenting 10_h.png...
+[10_h.png][_vs][Progress][Starting segmentation]
+[10_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\10_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rsynknuetn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rsynknuetn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rsynknuetn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rsynknuetn/output_100.png
+Time elapsed: 128.44 seconds
+[10_h.png][_vs][Progress][Finished final segmentation with statistic: 8.905380152624007, with regions count: 918]
+Ground image file: 10_h.png, segmented file Jaccard Distance: 0.639363
+Average Jaccard Distance: 0.580027
+Segmenting 11_dr.png...
+[11_dr.png][_vs][Progress][Starting segmentation]
+[11_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\11_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fkzcvijill/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fkzcvijill\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fkzcvijill\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fkzcvijill/output_100.png
+Time elapsed: 128.43 seconds
+[11_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.631763796365798, with regions count: 729]
+Ground image file: 11_dr.png, segmented file Jaccard Distance: 0.612118
+Average Jaccard Distance: 0.581062
+Segmenting 11_g.png...
+[11_g.png][_vs][Progress][Starting segmentation]
+[11_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\11_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ygfnvytuxn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ygfnvytuxn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ygfnvytuxn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ygfnvytuxn/output_100.png
+Time elapsed: 128.50 seconds
+[11_g.png][_vs][Progress][Finished final segmentation with statistic: 8.919710643804342, with regions count: 817]
+Ground image file: 11_g.png, segmented file Jaccard Distance: 0.617746
+Average Jaccard Distance: 0.582209
+Segmenting 11_h.png...
+[11_h.png][_vs][Progress][Starting segmentation]
+[11_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\11_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_inbeyidqyi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_inbeyidqyi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_inbeyidqyi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_inbeyidqyi/output_100.png
+Time elapsed: 128.51 seconds
+[11_h.png][_vs][Progress][Finished final segmentation with statistic: 9.677858377118909, with regions count: 1475]
+Ground image file: 11_h.png, segmented file Jaccard Distance: 0.714253
+Average Jaccard Distance: 0.586210
+Segmenting 12_dr.png...
+[12_dr.png][_vs][Progress][Starting segmentation]
+[12_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\12_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_soeapbbprg/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_soeapbbprg\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_soeapbbprg\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_soeapbbprg/output_100.png
+Time elapsed: 128.49 seconds
+[12_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.011589005911052, with regions count: 1195]
+Ground image file: 12_dr.png, segmented file Jaccard Distance: 0.517726
+Average Jaccard Distance: 0.584196
+Segmenting 12_g.png...
+[12_g.png][_vs][Progress][Starting segmentation]
+[12_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\12_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_htjcycqjfa/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_htjcycqjfa\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_htjcycqjfa\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_htjcycqjfa/output_100.png
+Time elapsed: 128.49 seconds
+[12_g.png][_vs][Progress][Finished final segmentation with statistic: 9.943259562456996, with regions count: 612]
+Ground image file: 12_g.png, segmented file Jaccard Distance: 0.617119
+Average Jaccard Distance: 0.585137
+Segmenting 12_h.png...
+[12_h.png][_vs][Progress][Starting segmentation]
+[12_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\12_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_cjjnfkgous/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_cjjnfkgous\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_cjjnfkgous\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_cjjnfkgous/output_100.png
+Time elapsed: 128.38 seconds
+[12_h.png][_vs][Progress][Finished final segmentation with statistic: 10.586494593263277, with regions count: 1203]
+Ground image file: 12_h.png, segmented file Jaccard Distance: 0.710530
+Average Jaccard Distance: 0.588620
+Segmenting 13_dr.png...
+[13_dr.png][_vs][Progress][Starting segmentation]
+[13_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\13_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zvjhompcuj/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zvjhompcuj\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zvjhompcuj\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zvjhompcuj/output_100.png
+Time elapsed: 128.53 seconds
+[13_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.621244995934196, with regions count: 1658]
+Ground image file: 13_dr.png, segmented file Jaccard Distance: 0.549906
+Average Jaccard Distance: 0.587573
+Segmenting 13_g.png...
+[13_g.png][_vs][Progress][Starting segmentation]
+[13_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\13_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ryvmuuhkzd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ryvmuuhkzd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ryvmuuhkzd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ryvmuuhkzd/output_100.png
+Time elapsed: 128.62 seconds
+[13_g.png][_vs][Progress][Finished final segmentation with statistic: 9.073619874741977, with regions count: 1204]
+Ground image file: 13_g.png, segmented file Jaccard Distance: 0.549288
+Average Jaccard Distance: 0.586566
+Segmenting 13_h.png...
+[13_h.png][_vs][Progress][Starting segmentation]
+[13_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\13_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_drmihsxcxn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_drmihsxcxn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_drmihsxcxn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_drmihsxcxn/output_100.png
+Time elapsed: 128.55 seconds
+[13_h.png][_vs][Progress][Finished final segmentation with statistic: 9.77997992509539, with regions count: 1433]
+Ground image file: 13_h.png, segmented file Jaccard Distance: 0.658085
+Average Jaccard Distance: 0.588400
+Segmenting 14_dr.png...
+[14_dr.png][_vs][Progress][Starting segmentation]
+[14_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\14_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_khnezcvpxb/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_khnezcvpxb\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_khnezcvpxb\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_khnezcvpxb/output_100.png
+Time elapsed: 128.44 seconds
+[14_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.799631634296617, with regions count: 1327]
+Ground image file: 14_dr.png, segmented file Jaccard Distance: 0.520440
+Average Jaccard Distance: 0.586701
+Segmenting 14_g.png...
+[14_g.png][_vs][Progress][Starting segmentation]
+[14_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\14_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ogterqoczi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ogterqoczi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ogterqoczi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ogterqoczi/output_100.png
+Time elapsed: 128.49 seconds
+[14_g.png][_vs][Progress][Finished final segmentation with statistic: 9.230949853787452, with regions count: 1232]
+Ground image file: 14_g.png, segmented file Jaccard Distance: 0.537970
+Average Jaccard Distance: 0.585512
+Segmenting 14_h.png...
+[14_h.png][_vs][Progress][Starting segmentation]
+[14_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\14_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_xykdamnqit/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_xykdamnqit\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_xykdamnqit\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_xykdamnqit/output_100.png
+Time elapsed: 128.53 seconds
+[14_h.png][_vs][Progress][Finished final segmentation with statistic: 9.759944114749484, with regions count: 1187]
+Ground image file: 14_h.png, segmented file Jaccard Distance: 0.665447
+Average Jaccard Distance: 0.587415
+Segmenting 15_dr.png...
+[15_dr.png][_vs][Progress][Starting segmentation]
+[15_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\15_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_pqhajoazic/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_pqhajoazic\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_pqhajoazic\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_pqhajoazic/output_100.png
+Time elapsed: 128.54 seconds
+[15_dr.png][_vs][Progress][Finished final segmentation with statistic: 11.074952989147432, with regions count: 890]
+Ground image file: 15_dr.png, segmented file Jaccard Distance: 0.461662
+Average Jaccard Distance: 0.584491
+Segmenting 15_g.png...
+[15_g.png][_vs][Progress][Starting segmentation]
+[15_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\15_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qnpkujjjtr/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qnpkujjjtr\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qnpkujjjtr\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qnpkujjjtr/output_100.png
+Time elapsed: 128.46 seconds
+[15_g.png][_vs][Progress][Finished final segmentation with statistic: 8.437531764089572, with regions count: 982]
+Ground image file: 15_g.png, segmented file Jaccard Distance: 0.556501
+Average Jaccard Distance: 0.583855
+Segmenting 15_h.png...
+[15_h.png][_vs][Progress][Starting segmentation]
+[15_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\15_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ixacdkkady/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ixacdkkady\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ixacdkkady\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ixacdkkady/output_100.png
+Time elapsed: 128.52 seconds
+[15_h.png][_vs][Progress][Finished final segmentation with statistic: 8.919661775974228, with regions count: 812]
+Ground image file: 15_h.png, segmented file Jaccard Distance: 0.716956
+Average Jaccard Distance: 0.586813
+Segmenting im0001.png...
+[im0001.png][_vs][Progress][Starting segmentation]
+[im0001.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0001.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_huymprtwcf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_huymprtwcf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_huymprtwcf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_huymprtwcf/output_100.png
+Time elapsed: 5.10 seconds
+[im0001.png][_vs][Progress][Finished final segmentation with statistic: 10.127981109799292, with regions count: 80]
+Ground image file: im0001.png, segmented file Jaccard Distance: 0.521315
+Average Jaccard Distance: 0.585389
+Segmenting im0002.png...
+[im0002.png][_vs][Progress][Starting segmentation]
+[im0002.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0002.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ykksihayhn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ykksihayhn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ykksihayhn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ykksihayhn/output_100.png
+Time elapsed: 4.90 seconds
+[im0002.png][_vs][Progress][Finished final segmentation with statistic: 8.077449822904368, with regions count: 109]
+Ground image file: im0002.png, segmented file Jaccard Distance: 0.488256
+Average Jaccard Distance: 0.583322
+Segmenting im0003.png...
+[im0003.png][_vs][Progress][Starting segmentation]
+[im0003.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0003.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_snyeboukiq/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_snyeboukiq\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_snyeboukiq\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_snyeboukiq/output_100.png
+Time elapsed: 4.93 seconds
+[im0003.png][_vs][Progress][Finished final segmentation with statistic: 9.757969303423849, with regions count: 125]
+Ground image file: im0003.png, segmented file Jaccard Distance: 0.486245
+Average Jaccard Distance: 0.581300
+Segmenting im0004.png...
+[im0004.png][_vs][Progress][Starting segmentation]
+[im0004.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0004.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_azduasgsus/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_azduasgsus\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_azduasgsus\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_azduasgsus/output_100.png
+Time elapsed: 4.90 seconds
+[im0004.png][_vs][Progress][Finished final segmentation with statistic: 7.777567886658796, with regions count: 39]
+Ground image file: im0004.png, segmented file Jaccard Distance: 0.513362
+Average Jaccard Distance: 0.579913
+Segmenting im0005.png...
+[im0005.png][_vs][Progress][Starting segmentation]
+[im0005.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0005.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_lwmqtsjtnt/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_lwmqtsjtnt\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_lwmqtsjtnt\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_lwmqtsjtnt/output_100.png
+Time elapsed: 4.89 seconds
+[im0005.png][_vs][Progress][Finished final segmentation with statistic: 11.324203069657615, with regions count: 95]
+Ground image file: im0005.png, segmented file Jaccard Distance: 0.554404
+Average Jaccard Distance: 0.579403
+Segmenting im0044.png...
+[im0044.png][_vs][Progress][Starting segmentation]
+[im0044.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0044.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kpzxcckhzp/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kpzxcckhzp\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kpzxcckhzp\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kpzxcckhzp/output_100.png
+Time elapsed: 4.93 seconds
+[im0044.png][_vs][Progress][Finished final segmentation with statistic: 10.555844155844156, with regions count: 145]
+Ground image file: im0044.png, segmented file Jaccard Distance: 0.474328
+Average Jaccard Distance: 0.577343
+Segmenting im0077.png...
+[im0077.png][_vs][Progress][Starting segmentation]
+[im0077.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0077.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_hupqcfryft/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_hupqcfryft\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_hupqcfryft\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_hupqcfryft/output_100.png
+Time elapsed: 4.96 seconds
+[im0077.png][_vs][Progress][Finished final segmentation with statistic: 11.585360094451003, with regions count: 46]
+Ground image file: im0077.png, segmented file Jaccard Distance: 0.598371
+Average Jaccard Distance: 0.577747
+Segmenting im0081.png...
+[im0081.png][_vs][Progress][Starting segmentation]
+[im0081.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0081.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ufvjcnmbnd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ufvjcnmbnd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ufvjcnmbnd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ufvjcnmbnd/output_100.png
+Time elapsed: 4.90 seconds
+[im0081.png][_vs][Progress][Finished final segmentation with statistic: 11.051239669421488, with regions count: 74]
+Ground image file: im0081.png, segmented file Jaccard Distance: 0.571294
+Average Jaccard Distance: 0.577625
+Segmenting im0082.png...
+[im0082.png][_vs][Progress][Starting segmentation]
+[im0082.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0082.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zkqvciywwb/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zkqvciywwb\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zkqvciywwb\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zkqvciywwb/output_100.png
+Time elapsed: 4.91 seconds
+[im0082.png][_vs][Progress][Finished final segmentation with statistic: 10.6, with regions count: 44]
+Ground image file: im0082.png, segmented file Jaccard Distance: 0.598026
+Average Jaccard Distance: 0.578003
+Segmenting im0139.png...
+[im0139.png][_vs][Progress][Starting segmentation]
+[im0139.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0139.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vjsmrtxwiv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vjsmrtxwiv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vjsmrtxwiv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vjsmrtxwiv/output_100.png
+Time elapsed: 5.00 seconds
+[im0139.png][_vs][Progress][Finished final segmentation with statistic: 12.435891381345927, with regions count: 94]
+Ground image file: im0139.png, segmented file Jaccard Distance: 0.506314
+Average Jaccard Distance: 0.576700
+Segmenting im0162.png...
+[im0162.png][_vs][Progress][Starting segmentation]
+[im0162.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0162.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_mfckuhnukl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_mfckuhnukl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_mfckuhnukl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_mfckuhnukl/output_100.png
+Time elapsed: 4.95 seconds
+[im0162.png][_vs][Progress][Finished final segmentation with statistic: 10.406611570247934, with regions count: 61]
+Ground image file: im0162.png, segmented file Jaccard Distance: 0.499162
+Average Jaccard Distance: 0.575315
+Segmenting im0163.png...
+[im0163.png][_vs][Progress][Starting segmentation]
+[im0163.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0163.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rfjokuyejm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rfjokuyejm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rfjokuyejm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rfjokuyejm/output_100.png
+Time elapsed: 4.96 seconds
+[im0163.png][_vs][Progress][Finished final segmentation with statistic: 10.295867768595041, with regions count: 40]
+Ground image file: im0163.png, segmented file Jaccard Distance: 0.605290
+Average Jaccard Distance: 0.575841
+Segmenting im0235.png...
+[im0235.png][_vs][Progress][Starting segmentation]
+[im0235.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0235.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_uiowawixqa/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_uiowawixqa\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_uiowawixqa\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_uiowawixqa/output_100.png
+Time elapsed: 4.92 seconds
+[im0235.png][_vs][Progress][Finished final segmentation with statistic: 10.045808736717827, with regions count: 55]
+Ground image file: im0235.png, segmented file Jaccard Distance: 0.648994
+Average Jaccard Distance: 0.577102
+Segmenting im0236.png...
+[im0236.png][_vs][Progress][Starting segmentation]
+[im0236.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0236.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rthwsamugq/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rthwsamugq\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rthwsamugq\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rthwsamugq/output_100.png
+Time elapsed: 4.91 seconds
+[im0236.png][_vs][Progress][Finished final segmentation with statistic: 10.343801652892562, with regions count: 29]
+Ground image file: im0236.png, segmented file Jaccard Distance: 0.654371
+Average Jaccard Distance: 0.578412
+Segmenting im0239.png...
+[im0239.png][_vs][Progress][Starting segmentation]
+[im0239.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0239.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_pnulxwtjxc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_pnulxwtjxc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_pnulxwtjxc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_pnulxwtjxc/output_100.png
+Time elapsed: 4.90 seconds
+[im0239.png][_vs][Progress][Finished final segmentation with statistic: 9.917591499409681, with regions count: 41]
+Ground image file: im0239.png, segmented file Jaccard Distance: 0.579559
+Average Jaccard Distance: 0.578431
+Segmenting im0240.png...
+[im0240.png][_vs][Progress][Starting segmentation]
+[im0240.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0240.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fcbrchrrvi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fcbrchrrvi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fcbrchrrvi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fcbrchrrvi/output_100.png
+Time elapsed: 4.93 seconds
+[im0240.png][_vs][Progress][Finished final segmentation with statistic: 10.105548996458088, with regions count: 52]
+Ground image file: im0240.png, segmented file Jaccard Distance: 0.599019
+Average Jaccard Distance: 0.578768
+Segmenting im0255.png...
+[im0255.png][_vs][Progress][Starting segmentation]
+[im0255.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0255.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_uameaaotam/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_uameaaotam\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_uameaaotam\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_uameaaotam/output_100.png
+Time elapsed: 4.91 seconds
+[im0255.png][_vs][Progress][Finished final segmentation with statistic: 11.339551357733177, with regions count: 52]
+Ground image file: im0255.png, segmented file Jaccard Distance: 0.572412
+Average Jaccard Distance: 0.578666
+Segmenting im0291.png...
+[im0291.png][_vs][Progress][Starting segmentation]
+[im0291.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0291.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vdpoaeccyj/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vdpoaeccyj\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vdpoaeccyj\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vdpoaeccyj/output_100.png
+Time elapsed: 4.95 seconds
+[im0291.png][_vs][Progress][Finished final segmentation with statistic: 6.279574970484061, with regions count: 36]
+Ground image file: im0291.png, segmented file Jaccard Distance: 0.550174
+Average Jaccard Distance: 0.578214
+Segmenting im0319.png...
+[im0319.png][_vs][Progress][Starting segmentation]
+[im0319.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0319.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_czuhjetjlx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_czuhjetjlx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_czuhjetjlx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_czuhjetjlx/output_100.png
+Time elapsed: 4.97 seconds
+[im0319.png][_vs][Progress][Finished final segmentation with statistic: 6.724203069657615, with regions count: 64]
+Ground image file: im0319.png, segmented file Jaccard Distance: 0.400498
+Average Jaccard Distance: 0.575437
+Segmenting im0324.png...
+[im0324.png][_vs][Progress][Starting segmentation]
+[im0324.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\im0324.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ooguphyshs/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ooguphyshs\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ooguphyshs\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ooguphyshs/output_100.png
+Time elapsed: 4.91 seconds
+[im0324.png][_vs][Progress][Finished final segmentation with statistic: 7.0706021251475795, with regions count: 81]
+Ground image file: im0324.png, segmented file Jaccard Distance: 0.539204
+Average Jaccard Distance: 0.574879
+Segmenting segment_01_dr.png...
+[segment_01_dr.png][_vs][Progress][Starting segmentation]
+[segment_01_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_01_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_mkeempowhl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_mkeempowhl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_mkeempowhl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_mkeempowhl/output_100.png
+Time elapsed: 128.54 seconds
+[segment_01_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.754495351692, with regions count: 1378]
+Ground image file: segment_01_dr.png, segmented file Jaccard Distance: 0.395756
+Average Jaccard Distance: 0.572165
+Segmenting segment_01_g.png...
+[segment_01_g.png][_vs][Progress][Starting segmentation]
+[segment_01_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_01_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_wokjfsyzah/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_wokjfsyzah\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_wokjfsyzah\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_wokjfsyzah/output_100.png
+Time elapsed: 128.58 seconds
+[segment_01_g.png][_vs][Progress][Finished final segmentation with statistic: 8.826556342653406, with regions count: 718]
+Ground image file: segment_01_g.png, segmented file Jaccard Distance: 0.543460
+Average Jaccard Distance: 0.571737
+Segmenting segment_01_h.png...
+[segment_01_h.png][_vs][Progress][Starting segmentation]
+[segment_01_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_01_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zyicoukexu/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zyicoukexu\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zyicoukexu\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zyicoukexu/output_100.png
+Time elapsed: 128.50 seconds
+[segment_01_h.png][_vs][Progress][Finished final segmentation with statistic: 9.689782127666229, with regions count: 1232]
+Ground image file: segment_01_h.png, segmented file Jaccard Distance: 0.660272
+Average Jaccard Distance: 0.573039
+Segmenting segment_02_dr.png...
+[segment_02_dr.png][_vs][Progress][Starting segmentation]
+[segment_02_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_02_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ogppdfivfm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ogppdfivfm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ogppdfivfm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ogppdfivfm/output_100.png
+Time elapsed: 128.73 seconds
+[segment_02_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.036939192781634, with regions count: 859]
+Ground image file: segment_02_dr.png, segmented file Jaccard Distance: 0.461270
+Average Jaccard Distance: 0.571419
+Segmenting segment_02_g.png...
+[segment_02_g.png][_vs][Progress][Starting segmentation]
+[segment_02_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_02_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_csvdbffciq/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_csvdbffciq\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_csvdbffciq\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_csvdbffciq/output_100.png
+Time elapsed: 128.53 seconds
+[segment_02_g.png][_vs][Progress][Finished final segmentation with statistic: 9.500407069024833, with regions count: 885]
+Ground image file: segment_02_g.png, segmented file Jaccard Distance: 0.577515
+Average Jaccard Distance: 0.571506
+Segmenting segment_02_h.png...
+[segment_02_h.png][_vs][Progress][Starting segmentation]
+[segment_02_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_02_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_xvzajuicsc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_xvzajuicsc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_xvzajuicsc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_xvzajuicsc/output_100.png
+Time elapsed: 128.59 seconds
+[segment_02_h.png][_vs][Progress][Finished final segmentation with statistic: 10.212057061987865, with regions count: 1124]
+Ground image file: segment_02_h.png, segmented file Jaccard Distance: 0.698311
+Average Jaccard Distance: 0.573292
+Segmenting segment_03_dr.png...
+[segment_03_dr.png][_vs][Progress][Starting segmentation]
+[segment_03_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_03_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_nsygqwqcol/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_nsygqwqcol\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_nsygqwqcol\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_nsygqwqcol/output_100.png
+Time elapsed: 128.68 seconds
+[segment_03_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.474433817320323, with regions count: 1379]
+Ground image file: segment_03_dr.png, segmented file Jaccard Distance: 0.499100
+Average Jaccard Distance: 0.572262
+Segmenting segment_03_g.png...
+[segment_03_g.png][_vs][Progress][Starting segmentation]
+[segment_03_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_03_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_milkhxyiaf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_milkhxyiaf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_milkhxyiaf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_milkhxyiaf/output_100.png
+Time elapsed: 128.65 seconds
+[segment_03_g.png][_vs][Progress][Finished final segmentation with statistic: 7.2120609714142745, with regions count: 874]
+Ground image file: segment_03_g.png, segmented file Jaccard Distance: 0.564196
+Average Jaccard Distance: 0.572151
+Segmenting segment_03_h.png...
+[segment_03_h.png][_vs][Progress][Starting segmentation]
+[segment_03_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_03_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ymtkoicfae/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ymtkoicfae\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ymtkoicfae\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ymtkoicfae/output_100.png
+Time elapsed: 128.44 seconds
+[segment_03_h.png][_vs][Progress][Finished final segmentation with statistic: 9.459052667792582, with regions count: 938]
+Ground image file: segment_03_h.png, segmented file Jaccard Distance: 0.615664
+Average Jaccard Distance: 0.572739
+Segmenting segment_04_dr.png...
+[segment_04_dr.png][_vs][Progress][Starting segmentation]
+[segment_04_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_04_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qnnkqalacc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qnnkqalacc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qnnkqalacc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qnnkqalacc/output_100.png
+Time elapsed: 128.59 seconds
+[segment_04_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.505379370738725, with regions count: 1154]
+Ground image file: segment_04_dr.png, segmented file Jaccard Distance: 0.462804
+Average Jaccard Distance: 0.571273
+Segmenting segment_04_g.png...
+[segment_04_g.png][_vs][Progress][Starting segmentation]
+[segment_04_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_04_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rcnlnssxis/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rcnlnssxis\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rcnlnssxis\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rcnlnssxis/output_100.png
+Time elapsed: 128.54 seconds
+[segment_04_g.png][_vs][Progress][Finished final segmentation with statistic: 7.824631438825295, with regions count: 841]
+Ground image file: segment_04_g.png, segmented file Jaccard Distance: 0.579266
+Average Jaccard Distance: 0.571379
+Segmenting segment_04_h.png...
+[segment_04_h.png][_vs][Progress][Starting segmentation]
+[segment_04_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_04_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_dipokgcjrr/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_dipokgcjrr\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_dipokgcjrr\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_dipokgcjrr/output_100.png
+Time elapsed: 128.52 seconds
+[segment_04_h.png][_vs][Progress][Finished final segmentation with statistic: 9.4375874734159, with regions count: 927]
+Ground image file: segment_04_h.png, segmented file Jaccard Distance: 0.632847
+Average Jaccard Distance: 0.572177
+Segmenting segment_05_dr.png...
+[segment_05_dr.png][_vs][Progress][Starting segmentation]
+[segment_05_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_05_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ypubjqtzky/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ypubjqtzky\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ypubjqtzky\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ypubjqtzky/output_100.png
+Time elapsed: 128.64 seconds
+[segment_05_dr.png][_vs][Progress][Finished final segmentation with statistic: 8.666392029461438, with regions count: 1241]
+Ground image file: segment_05_dr.png, segmented file Jaccard Distance: 0.552581
+Average Jaccard Distance: 0.571926
+Segmenting segment_05_g.png...
+[segment_05_g.png][_vs][Progress][Starting segmentation]
+[segment_05_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_05_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_pbdgomgwvy/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_pbdgomgwvy\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_pbdgomgwvy\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_pbdgomgwvy/output_100.png
+Time elapsed: 128.61 seconds
+[segment_05_g.png][_vs][Progress][Finished final segmentation with statistic: 8.178739952774128, with regions count: 857]
+Ground image file: segment_05_g.png, segmented file Jaccard Distance: 0.604226
+Average Jaccard Distance: 0.572335
+Segmenting segment_05_h.png...
+[segment_05_h.png][_vs][Progress][Starting segmentation]
+[segment_05_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_05_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ftnegmlobe/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ftnegmlobe\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ftnegmlobe\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ftnegmlobe/output_100.png
+Time elapsed: 128.65 seconds
+[segment_05_h.png][_vs][Progress][Finished final segmentation with statistic: 8.582864690842559, with regions count: 700]
+Ground image file: segment_05_h.png, segmented file Jaccard Distance: 0.675203
+Average Jaccard Distance: 0.573620
+Segmenting segment_06_dr.png...
+[segment_06_dr.png][_vs][Progress][Starting segmentation]
+[segment_06_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_06_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_umbfghckwf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_umbfghckwf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_umbfghckwf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_umbfghckwf/output_100.png
+Time elapsed: 128.46 seconds
+[segment_06_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.85297624632514, with regions count: 2640]
+Ground image file: segment_06_dr.png, segmented file Jaccard Distance: 0.452436
+Average Jaccard Distance: 0.572124
+Segmenting segment_06_g.png...
+[segment_06_g.png][_vs][Progress][Starting segmentation]
+[segment_06_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_06_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_avavzewdnm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_avavzewdnm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_avavzewdnm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_avavzewdnm/output_100.png
+Time elapsed: 128.42 seconds
+[segment_06_g.png][_vs][Progress][Finished final segmentation with statistic: 8.283451495746544, with regions count: 856]
+Ground image file: segment_06_g.png, segmented file Jaccard Distance: 0.593803
+Average Jaccard Distance: 0.572389
+Segmenting segment_06_h.png...
+[segment_06_h.png][_vs][Progress][Starting segmentation]
+[segment_06_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_06_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_acpokzyick/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_acpokzyick\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_acpokzyick\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_acpokzyick/output_100.png
+Time elapsed: 128.74 seconds
+[segment_06_h.png][_vs][Progress][Finished final segmentation with statistic: 10.339736485112905, with regions count: 781]
+Ground image file: segment_06_h.png, segmented file Jaccard Distance: 0.698477
+Average Jaccard Distance: 0.573908
+Segmenting segment_07_dr.png...
+[segment_07_dr.png][_vs][Progress][Starting segmentation]
+[segment_07_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_07_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_jmkkcnrhod/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_jmkkcnrhod\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_jmkkcnrhod\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_jmkkcnrhod/output_100.png
+Time elapsed: 128.59 seconds
+[segment_07_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.545103541158442, with regions count: 1082]
+Ground image file: segment_07_dr.png, segmented file Jaccard Distance: 0.561118
+Average Jaccard Distance: 0.573756
+Segmenting segment_07_g.png...
+[segment_07_g.png][_vs][Progress][Starting segmentation]
+[segment_07_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_07_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vtlzbhclcp/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vtlzbhclcp\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vtlzbhclcp\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vtlzbhclcp/output_100.png
+Time elapsed: 128.59 seconds
+[segment_07_g.png][_vs][Progress][Finished final segmentation with statistic: 8.827936858854068, with regions count: 1034]
+Ground image file: segment_07_g.png, segmented file Jaccard Distance: 0.572062
+Average Jaccard Distance: 0.573736
+Segmenting segment_07_h.png...
+[segment_07_h.png][_vs][Progress][Starting segmentation]
+[segment_07_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_07_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fzvzchgmzm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fzvzchgmzm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fzvzchgmzm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fzvzchgmzm/output_100.png
+Time elapsed: 128.61 seconds
+[segment_07_h.png][_vs][Progress][Finished final segmentation with statistic: 8.791090514949646, with regions count: 831]
+Ground image file: segment_07_h.png, segmented file Jaccard Distance: 0.679919
+Average Jaccard Distance: 0.574970
+Segmenting segment_08_dr.png...
+[segment_08_dr.png][_vs][Progress][Starting segmentation]
+[segment_08_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_08_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ukxxlqnbwx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ukxxlqnbwx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ukxxlqnbwx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ukxxlqnbwx/output_100.png
+Time elapsed: 128.51 seconds
+[segment_08_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.437227806186277, with regions count: 1062]
+Ground image file: segment_08_dr.png, segmented file Jaccard Distance: 0.538021
+Average Jaccard Distance: 0.574546
+Segmenting segment_08_g.png...
+[segment_08_g.png][_vs][Progress][Starting segmentation]
+[segment_08_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_08_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_nacnphpwfn/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_nacnphpwfn\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_nacnphpwfn\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_nacnphpwfn/output_100.png
+Time elapsed: 128.76 seconds
+[segment_08_g.png][_vs][Progress][Finished final segmentation with statistic: 9.594648679395759, with regions count: 753]
+Ground image file: segment_08_g.png, segmented file Jaccard Distance: 0.576319
+Average Jaccard Distance: 0.574566
+Segmenting segment_08_h.png...
+[segment_08_h.png][_vs][Progress][Starting segmentation]
+[segment_08_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_08_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fvghnqjtrs/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fvghnqjtrs\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fvghnqjtrs\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fvghnqjtrs/output_100.png
+Time elapsed: 128.60 seconds
+[segment_08_h.png][_vs][Progress][Finished final segmentation with statistic: 9.243765442234315, with regions count: 1181]
+Ground image file: segment_08_h.png, segmented file Jaccard Distance: 0.692491
+Average Jaccard Distance: 0.575891
+Segmenting segment_09_dr.png...
+[segment_09_dr.png][_vs][Progress][Starting segmentation]
+[segment_09_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_09_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ogapahqicb/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ogapahqicb\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ogapahqicb\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ogapahqicb/output_100.png
+Time elapsed: 128.55 seconds
+[segment_09_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.39360642631513, with regions count: 1797]
+Ground image file: segment_09_dr.png, segmented file Jaccard Distance: 0.490145
+Average Jaccard Distance: 0.574938
+Segmenting segment_09_g.png...
+[segment_09_g.png][_vs][Progress][Starting segmentation]
+[segment_09_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_09_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ntnvwnuala/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ntnvwnuala\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ntnvwnuala\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ntnvwnuala/output_100.png
+Time elapsed: 128.64 seconds
+[segment_09_g.png][_vs][Progress][Finished final segmentation with statistic: 8.79259320072559, with regions count: 674]
+Ground image file: segment_09_g.png, segmented file Jaccard Distance: 0.588194
+Average Jaccard Distance: 0.575084
+Segmenting segment_09_h.png...
+[segment_09_h.png][_vs][Progress][Starting segmentation]
+[segment_09_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_09_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_iiculacmdj/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_iiculacmdj\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_iiculacmdj\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_iiculacmdj/output_100.png
+Time elapsed: 128.53 seconds
+[segment_09_h.png][_vs][Progress][Finished final segmentation with statistic: 8.263440119315694, with regions count: 1749]
+Ground image file: segment_09_h.png, segmented file Jaccard Distance: 0.619636
+Average Jaccard Distance: 0.575568
+Segmenting segment_1.png...
+[segment_1.png][_vs][Progress][Starting segmentation]
+[segment_1.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_1.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_gkdrobtvon/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_gkdrobtvon\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_gkdrobtvon\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_gkdrobtvon/output_100.png
+Time elapsed: 241.67 seconds
+[segment_1.png][_vs][Progress][Finished final segmentation with statistic: 4.004919247185661, with regions count: 662]
+Ground image file: segment_1.png, segmented file Jaccard Distance: 0.529757
+Average Jaccard Distance: 0.575075
+Segmenting segment_10.png...
+[segment_10.png][_vs][Progress][Starting segmentation]
+[segment_10.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_10.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ctpglznkjc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ctpglznkjc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ctpglznkjc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ctpglznkjc/output_100.png
+Time elapsed: 82.65 seconds
+[segment_10.png][_vs][Progress][Finished final segmentation with statistic: 6.556663291827853, with regions count: 203]
+Ground image file: segment_10.png, segmented file Jaccard Distance: 0.634160
+Average Jaccard Distance: 0.575704
+Segmenting segment_10_dr.png...
+[segment_10_dr.png][_vs][Progress][Starting segmentation]
+[segment_10_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_10_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_nepoqysimk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_nepoqysimk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_nepoqysimk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_nepoqysimk/output_100.png
+Time elapsed: 128.59 seconds
+[segment_10_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.332069611246638, with regions count: 569]
+Ground image file: segment_10_dr.png, segmented file Jaccard Distance: 0.592320
+Average Jaccard Distance: 0.575879
+Segmenting segment_10_g.png...
+[segment_10_g.png][_vs][Progress][Starting segmentation]
+[segment_10_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_10_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_anjlquhhfh/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_anjlquhhfh\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_anjlquhhfh\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_anjlquhhfh/output_100.png
+Time elapsed: 128.66 seconds
+[segment_10_g.png][_vs][Progress][Finished final segmentation with statistic: 8.905282416963782, with regions count: 1297]
+Ground image file: segment_10_g.png, segmented file Jaccard Distance: 0.584042
+Average Jaccard Distance: 0.575964
+Segmenting segment_10_h.png...
+[segment_10_h.png][_vs][Progress][Starting segmentation]
+[segment_10_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_10_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_iqitpaocpx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_iqitpaocpx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_iqitpaocpx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_iqitpaocpx/output_100.png
+Time elapsed: 128.52 seconds
+[segment_10_h.png][_vs][Progress][Finished final segmentation with statistic: 8.905380152624007, with regions count: 918]
+Ground image file: segment_10_h.png, segmented file Jaccard Distance: 0.639363
+Average Jaccard Distance: 0.576617
+Segmenting segment_11.png...
+[segment_11.png][_vs][Progress][Starting segmentation]
+[segment_11.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_11.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_jzfngrmecb/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_jzfngrmecb\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_jzfngrmecb\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_jzfngrmecb/output_100.png
+Time elapsed: 87.90 seconds
+[segment_11.png][_vs][Progress][Finished final segmentation with statistic: 5.340557715480982, with regions count: 186]
+Ground image file: segment_11.png, segmented file Jaccard Distance: 0.618798
+Average Jaccard Distance: 0.577048
+Segmenting segment_11_dr.png...
+[segment_11_dr.png][_vs][Progress][Starting segmentation]
+[segment_11_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_11_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_dufnbxdghg/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_dufnbxdghg\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_dufnbxdghg\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_dufnbxdghg/output_100.png
+Time elapsed: 128.66 seconds
+[segment_11_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.631763796365798, with regions count: 729]
+Ground image file: segment_11_dr.png, segmented file Jaccard Distance: 0.612118
+Average Jaccard Distance: 0.577402
+Segmenting segment_11_g.png...
+[segment_11_g.png][_vs][Progress][Starting segmentation]
+[segment_11_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_11_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_pitacllpsp/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_pitacllpsp\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_pitacllpsp\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_pitacllpsp/output_100.png
+Time elapsed: 128.56 seconds
+[segment_11_g.png][_vs][Progress][Finished final segmentation with statistic: 8.919710643804342, with regions count: 817]
+Ground image file: segment_11_g.png, segmented file Jaccard Distance: 0.617746
+Average Jaccard Distance: 0.577806
+Segmenting segment_11_h.png...
+[segment_11_h.png][_vs][Progress][Starting segmentation]
+[segment_11_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_11_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zyuvscpury/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zyuvscpury\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zyuvscpury\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zyuvscpury/output_100.png
+Time elapsed: 128.77 seconds
+[segment_11_h.png][_vs][Progress][Finished final segmentation with statistic: 9.677858377118909, with regions count: 1475]
+Ground image file: segment_11_h.png, segmented file Jaccard Distance: 0.714253
+Average Jaccard Distance: 0.579157
+Segmenting segment_12.png...
+[segment_12.png][_vs][Progress][Starting segmentation]
+[segment_12.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_12.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_hlswrqwamd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_hlswrqwamd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_hlswrqwamd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_hlswrqwamd/output_100.png
+Time elapsed: 107.36 seconds
+[segment_12.png][_vs][Progress][Finished final segmentation with statistic: 4.361225823131534, with regions count: 391]
+Ground image file: segment_12.png, segmented file Jaccard Distance: 0.399279
+Average Jaccard Distance: 0.577393
+Segmenting segment_12_dr.png...
+[segment_12_dr.png][_vs][Progress][Starting segmentation]
+[segment_12_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_12_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_jqfgpyzifb/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_jqfgpyzifb\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_jqfgpyzifb\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_jqfgpyzifb/output_100.png
+Time elapsed: 128.56 seconds
+[segment_12_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.011589005911052, with regions count: 1195]
+Ground image file: segment_12_dr.png, segmented file Jaccard Distance: 0.517726
+Average Jaccard Distance: 0.576814
+Segmenting segment_12_g.png...
+[segment_12_g.png][_vs][Progress][Starting segmentation]
+[segment_12_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_12_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qbfktwohnl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qbfktwohnl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qbfktwohnl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qbfktwohnl/output_100.png
+Time elapsed: 128.71 seconds
+[segment_12_g.png][_vs][Progress][Finished final segmentation with statistic: 9.943259562456996, with regions count: 612]
+Ground image file: segment_12_g.png, segmented file Jaccard Distance: 0.617119
+Average Jaccard Distance: 0.577201
+Segmenting segment_12_h.png...
+[segment_12_h.png][_vs][Progress][Starting segmentation]
+[segment_12_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_12_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kwgffffrca/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kwgffffrca\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kwgffffrca\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kwgffffrca/output_100.png
+Time elapsed: 128.52 seconds
+[segment_12_h.png][_vs][Progress][Finished final segmentation with statistic: 10.586494593263277, with regions count: 1203]
+Ground image file: segment_12_h.png, segmented file Jaccard Distance: 0.710530
+Average Jaccard Distance: 0.578471
+Segmenting segment_13.png...
+[segment_13.png][_vs][Progress][Starting segmentation]
+[segment_13.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_13.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ogjpkbjgoi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ogjpkbjgoi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ogjpkbjgoi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ogjpkbjgoi/output_100.png
+Time elapsed: 107.12 seconds
+[segment_13.png][_vs][Progress][Finished final segmentation with statistic: 3.2737325777479644, with regions count: 835]
+Ground image file: segment_13.png, segmented file Jaccard Distance: 0.264224
+Average Jaccard Distance: 0.575506
+Segmenting segment_13_dr.png...
+[segment_13_dr.png][_vs][Progress][Starting segmentation]
+[segment_13_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_13_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ncfozvuonk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ncfozvuonk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ncfozvuonk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ncfozvuonk/output_100.png
+Time elapsed: 128.61 seconds
+[segment_13_dr.png][_vs][Progress][Finished final segmentation with statistic: 9.621244995934196, with regions count: 1658]
+Ground image file: segment_13_dr.png, segmented file Jaccard Distance: 0.549906
+Average Jaccard Distance: 0.575267
+Segmenting segment_13_g.png...
+[segment_13_g.png][_vs][Progress][Starting segmentation]
+[segment_13_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_13_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kbgeoncnpx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kbgeoncnpx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kbgeoncnpx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kbgeoncnpx/output_100.png
+Time elapsed: 128.73 seconds
+[segment_13_g.png][_vs][Progress][Finished final segmentation with statistic: 9.073619874741977, with regions count: 1204]
+Ground image file: segment_13_g.png, segmented file Jaccard Distance: 0.549288
+Average Jaccard Distance: 0.575027
+Segmenting segment_13_h.png...
+[segment_13_h.png][_vs][Progress][Starting segmentation]
+[segment_13_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_13_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_jeugczwevi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_jeugczwevi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_jeugczwevi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_jeugczwevi/output_100.png
+Time elapsed: 128.58 seconds
+[segment_13_h.png][_vs][Progress][Finished final segmentation with statistic: 9.77997992509539, with regions count: 1433]
+Ground image file: segment_13_h.png, segmented file Jaccard Distance: 0.658085
+Average Jaccard Distance: 0.575789
+Segmenting segment_14.png...
+[segment_14.png][_vs][Progress][Starting segmentation]
+[segment_14.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_14.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_eynhgbqiwl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_eynhgbqiwl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_eynhgbqiwl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_eynhgbqiwl/output_100.png
+Time elapsed: 107.30 seconds
+[segment_14.png][_vs][Progress][Finished final segmentation with statistic: 5.002186515922261, with regions count: 184]
+Ground image file: segment_14.png, segmented file Jaccard Distance: 0.615779
+Average Jaccard Distance: 0.576152
+Segmenting segment_14_dr.png...
+[segment_14_dr.png][_vs][Progress][Starting segmentation]
+[segment_14_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_14_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_lmbvkmqxqt/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_lmbvkmqxqt\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_lmbvkmqxqt\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_lmbvkmqxqt/output_100.png
+Time elapsed: 128.72 seconds
+[segment_14_dr.png][_vs][Progress][Finished final segmentation with statistic: 10.799631634296617, with regions count: 1327]
+Ground image file: segment_14_dr.png, segmented file Jaccard Distance: 0.520440
+Average Jaccard Distance: 0.575650
+Segmenting segment_14_g.png...
+[segment_14_g.png][_vs][Progress][Starting segmentation]
+[segment_14_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_14_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_trnpkcpyxv/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_trnpkcpyxv\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_trnpkcpyxv\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_trnpkcpyxv/output_100.png
+Time elapsed: 128.48 seconds
+[segment_14_g.png][_vs][Progress][Finished final segmentation with statistic: 9.230949853787452, with regions count: 1232]
+Ground image file: segment_14_g.png, segmented file Jaccard Distance: 0.537970
+Average Jaccard Distance: 0.575314
+Segmenting segment_14_h.png...
+[segment_14_h.png][_vs][Progress][Starting segmentation]
+[segment_14_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_14_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ayutvakhdx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ayutvakhdx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ayutvakhdx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ayutvakhdx/output_100.png
+Time elapsed: 128.48 seconds
+[segment_14_h.png][_vs][Progress][Finished final segmentation with statistic: 9.759944114749484, with regions count: 1187]
+Ground image file: segment_14_h.png, segmented file Jaccard Distance: 0.665447
+Average Jaccard Distance: 0.576112
+Segmenting segment_15.png...
+[segment_15.png][_vs][Progress][Starting segmentation]
+[segment_15.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_15.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_gteivvbytr/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_gteivvbytr\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_gteivvbytr\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_gteivvbytr/output_100.png
+Time elapsed: 82.57 seconds
+[segment_15.png][_vs][Progress][Finished final segmentation with statistic: 6.30381482712766, with regions count: 641]
+Ground image file: segment_15.png, segmented file Jaccard Distance: 0.576482
+Average Jaccard Distance: 0.576115
+Segmenting segment_15_dr.png...
+[segment_15_dr.png][_vs][Progress][Starting segmentation]
+[segment_15_dr.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_15_dr.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vfbwvervek/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vfbwvervek\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vfbwvervek\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vfbwvervek/output_100.png
+Time elapsed: 128.68 seconds
+[segment_15_dr.png][_vs][Progress][Finished final segmentation with statistic: 11.074952989147432, with regions count: 890]
+Ground image file: segment_15_dr.png, segmented file Jaccard Distance: 0.461662
+Average Jaccard Distance: 0.575120
+Segmenting segment_15_g.png...
+[segment_15_g.png][_vs][Progress][Starting segmentation]
+[segment_15_g.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_15_g.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_xqeblauowj/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_xqeblauowj\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_xqeblauowj\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_xqeblauowj/output_100.png
+Time elapsed: 128.83 seconds
+[segment_15_g.png][_vs][Progress][Finished final segmentation with statistic: 8.437531764089572, with regions count: 982]
+Ground image file: segment_15_g.png, segmented file Jaccard Distance: 0.556501
+Average Jaccard Distance: 0.574959
+Segmenting segment_15_h.png...
+[segment_15_h.png][_vs][Progress][Starting segmentation]
+[segment_15_h.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_15_h.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ongfgqekjd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ongfgqekjd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ongfgqekjd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ongfgqekjd/output_100.png
+Time elapsed: 128.73 seconds
+[segment_15_h.png][_vs][Progress][Finished final segmentation with statistic: 8.919661775974228, with regions count: 812]
+Ground image file: segment_15_h.png, segmented file Jaccard Distance: 0.716956
+Average Jaccard Distance: 0.576173
+Segmenting segment_16.png...
+[segment_16.png][_vs][Progress][Starting segmentation]
+[segment_16.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_16.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fguaivtsst/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fguaivtsst\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fguaivtsst\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fguaivtsst/output_100.png
+Time elapsed: 82.66 seconds
+[segment_16.png][_vs][Progress][Finished final segmentation with statistic: 6.014113878143133, with regions count: 341]
+Ground image file: segment_16.png, segmented file Jaccard Distance: 0.538254
+Average Jaccard Distance: 0.575851
+Segmenting segment_17.png...
+[segment_17.png][_vs][Progress][Starting segmentation]
+[segment_17.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_17.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_nrqlqexmcp/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_nrqlqexmcp\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_nrqlqexmcp\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_nrqlqexmcp/output_100.png
+Time elapsed: 107.22 seconds
+[segment_17.png][_vs][Progress][Finished final segmentation with statistic: 5.807325148601562, with regions count: 239]
+Ground image file: segment_17.png, segmented file Jaccard Distance: 0.611415
+Average Jaccard Distance: 0.576150
+Segmenting segment_18.png...
+[segment_18.png][_vs][Progress][Starting segmentation]
+[segment_18.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_18.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_loojgjbggi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_loojgjbggi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_loojgjbggi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_loojgjbggi/output_100.png
+Time elapsed: 82.81 seconds
+[segment_18.png][_vs][Progress][Finished final segmentation with statistic: 6.810380651595745, with regions count: 358]
+Ground image file: segment_18.png, segmented file Jaccard Distance: 0.592381
+Average Jaccard Distance: 0.576285
+Segmenting segment_19.png...
+[segment_19.png][_vs][Progress][Starting segmentation]
+[segment_19.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_19.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_gifcgfrezc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_gifcgfrezc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_gifcgfrezc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_gifcgfrezc/output_100.png
+Time elapsed: 84.28 seconds
+[segment_19.png][_vs][Progress][Finished final segmentation with statistic: 7.9862223464700195, with regions count: 471]
+Ground image file: segment_19.png, segmented file Jaccard Distance: 0.323192
+Average Jaccard Distance: 0.574194
+Segmenting segment_2.png...
+[segment_2.png][_vs][Progress][Starting segmentation]
+[segment_2.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_2.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_atxbfforxm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_atxbfforxm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_atxbfforxm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_atxbfforxm/output_100.png
+Time elapsed: 90.69 seconds
+[segment_2.png][_vs][Progress][Finished final segmentation with statistic: 4.108085794511516, with regions count: 127]
+Ground image file: segment_2.png, segmented file Jaccard Distance: 0.573450
+Average Jaccard Distance: 0.574188
+Segmenting segment_20.png...
+[segment_20.png][_vs][Progress][Starting segmentation]
+[segment_20.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_20.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_sbtozsvqhl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_sbtozsvqhl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_sbtozsvqhl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_sbtozsvqhl/output_100.png
+Time elapsed: 85.53 seconds
+[segment_20.png][_vs][Progress][Finished final segmentation with statistic: 7.500793338974855, with regions count: 321]
+Ground image file: segment_20.png, segmented file Jaccard Distance: 0.599586
+Average Jaccard Distance: 0.574394
+Segmenting segment_21.png...
+[segment_21.png][_vs][Progress][Starting segmentation]
+[segment_21.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_21.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_wnllaptjwr/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_wnllaptjwr\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_wnllaptjwr\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_wnllaptjwr/output_100.png
+Time elapsed: 110.52 seconds
+[segment_21.png][_vs][Progress][Finished final segmentation with statistic: 5.220415944621462, with regions count: 198]
+Ground image file: segment_21.png, segmented file Jaccard Distance: 0.597730
+Average Jaccard Distance: 0.574582
+Segmenting segment_22.png...
+[segment_22.png][_vs][Progress][Starting segmentation]
+[segment_22.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_22.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zkyvifeqag/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zkyvifeqag\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zkyvifeqag\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zkyvifeqag/output_100.png
+Time elapsed: 90.62 seconds
+[segment_22.png][_vs][Progress][Finished final segmentation with statistic: 4.152865169497306, with regions count: 100]
+Ground image file: segment_22.png, segmented file Jaccard Distance: 0.567782
+Average Jaccard Distance: 0.574528
+Segmenting segment_23.png...
+[segment_23.png][_vs][Progress][Starting segmentation]
+[segment_23.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_23.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fxiyisdngs/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fxiyisdngs\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fxiyisdngs\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fxiyisdngs/output_100.png
+Time elapsed: 90.48 seconds
+[segment_23.png][_vs][Progress][Finished final segmentation with statistic: 4.406745219743992, with regions count: 158]
+Ground image file: segment_23.png, segmented file Jaccard Distance: 0.535329
+Average Jaccard Distance: 0.574217
+Segmenting segment_24.png...
+[segment_24.png][_vs][Progress][Starting segmentation]
+[segment_24.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_24.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_geezkrkgef/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_geezkrkgef\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_geezkrkgef\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_geezkrkgef/output_100.png
+Time elapsed: 248.97 seconds
+[segment_24.png][_vs][Progress][Finished final segmentation with statistic: 3.0772728866952352, with regions count: 546]
+Ground image file: segment_24.png, segmented file Jaccard Distance: 0.444398
+Average Jaccard Distance: 0.573195
+Segmenting segment_25.png...
+[segment_25.png][_vs][Progress][Starting segmentation]
+[segment_25.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_25.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_rvdzotgmjy/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_rvdzotgmjy\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_rvdzotgmjy\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_rvdzotgmjy/output_100.png
+Time elapsed: 248.48 seconds
+[segment_25.png][_vs][Progress][Finished final segmentation with statistic: 3.180386036288814, with regions count: 877]
+Ground image file: segment_25.png, segmented file Jaccard Distance: 0.371655
+Average Jaccard Distance: 0.571620
+Segmenting segment_26.png...
+[segment_26.png][_vs][Progress][Starting segmentation]
+[segment_26.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_26.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_wndzikoqit/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_wndzikoqit\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_wndzikoqit\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_wndzikoqit/output_100.png
+Time elapsed: 248.96 seconds
+[segment_26.png][_vs][Progress][Finished final segmentation with statistic: 3.4718037381389655, with regions count: 721]
+Ground image file: segment_26.png, segmented file Jaccard Distance: 0.475902
+Average Jaccard Distance: 0.570878
+Segmenting segment_27.png...
+[segment_27.png][_vs][Progress][Starting segmentation]
+[segment_27.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_27.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_teruqihjtm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_teruqihjtm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_teruqihjtm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_teruqihjtm/output_100.png
+Time elapsed: 248.78 seconds
+[segment_27.png][_vs][Progress][Finished final segmentation with statistic: 4.174810499778934, with regions count: 380]
+Ground image file: segment_27.png, segmented file Jaccard Distance: 0.537948
+Average Jaccard Distance: 0.570625
+Segmenting segment_28.png...
+[segment_28.png][_vs][Progress][Starting segmentation]
+[segment_28.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_28.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zaqhzhrpnd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zaqhzhrpnd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zaqhzhrpnd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zaqhzhrpnd/output_100.png
+Time elapsed: 90.63 seconds
+[segment_28.png][_vs][Progress][Finished final segmentation with statistic: 3.5306787565650364, with regions count: 168]
+Ground image file: segment_28.png, segmented file Jaccard Distance: 0.390268
+Average Jaccard Distance: 0.569248
+Segmenting segment_29.png...
+[segment_29.png][_vs][Progress][Starting segmentation]
+[segment_29.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_29.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_fuqsrziqkx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_fuqsrziqkx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_fuqsrziqkx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_fuqsrziqkx/output_100.png
+Time elapsed: 248.80 seconds
+[segment_29.png][_vs][Progress][Finished final segmentation with statistic: 4.4550486982620825, with regions count: 445]
+Ground image file: segment_29.png, segmented file Jaccard Distance: 0.554795
+Average Jaccard Distance: 0.569139
+Segmenting segment_3.png...
+[segment_3.png][_vs][Progress][Starting segmentation]
+[segment_3.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_3.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_kuxuydagig/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_kuxuydagig\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_kuxuydagig\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_kuxuydagig/output_100.png
+Time elapsed: 84.90 seconds
+[segment_3.png][_vs][Progress][Finished final segmentation with statistic: 5.860130560928433, with regions count: 193]
+Ground image file: segment_3.png, segmented file Jaccard Distance: 0.593804
+Average Jaccard Distance: 0.569324
+Segmenting segment_30.png...
+[segment_30.png][_vs][Progress][Starting segmentation]
+[segment_30.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_30.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_jjfvadzixg/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_jjfvadzixg\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_jjfvadzixg\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_jjfvadzixg/output_100.png
+Time elapsed: 85.03 seconds
+[segment_30.png][_vs][Progress][Finished final segmentation with statistic: 6.867123277321083, with regions count: 405]
+Ground image file: segment_30.png, segmented file Jaccard Distance: 0.596712
+Average Jaccard Distance: 0.569528
+Segmenting segment_31.png...
+[segment_31.png][_vs][Progress][Starting segmentation]
+[segment_31.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_31.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qcntebjmbi/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qcntebjmbi\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qcntebjmbi\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qcntebjmbi/output_100.png
+Time elapsed: 110.53 seconds
+[segment_31.png][_vs][Progress][Finished final segmentation with statistic: 4.724985209719194, with regions count: 76]
+Ground image file: segment_31.png, segmented file Jaccard Distance: 0.645766
+Average Jaccard Distance: 0.570093
+Segmenting segment_32.png...
+[segment_32.png][_vs][Progress][Starting segmentation]
+[segment_32.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_32.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_yabeorykgu/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_yabeorykgu\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_yabeorykgu\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_yabeorykgu/output_100.png
+Time elapsed: 249.31 seconds
+[segment_32.png][_vs][Progress][Finished final segmentation with statistic: 3.0772728866952352, with regions count: 546]
+Ground image file: segment_32.png, segmented file Jaccard Distance: 0.444398
+Average Jaccard Distance: 0.569169
+Segmenting segment_33.png...
+[segment_33.png][_vs][Progress][Starting segmentation]
+[segment_33.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_33.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_cbdautzjsf/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_cbdautzjsf\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_cbdautzjsf\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_cbdautzjsf/output_100.png
+Time elapsed: 7802.79 seconds
+[segment_33.png][_vs][Progress][Finished final segmentation with statistic: 2.7291671980750265, with regions count: 425]
+Ground image file: segment_33.png, segmented file Jaccard Distance: 0.445310
+Average Jaccard Distance: 0.568265
+Segmenting segment_34.png...
+[segment_34.png][_vs][Progress][Starting segmentation]
+[segment_34.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_34.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_uxipywldaq/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_uxipywldaq\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_uxipywldaq\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_uxipywldaq/output_100.png
+Time elapsed: 242.11 seconds
+[segment_34.png][_vs][Progress][Finished final segmentation with statistic: 3.716875988419549, with regions count: 514]
+Ground image file: segment_34.png, segmented file Jaccard Distance: 0.552353
+Average Jaccard Distance: 0.568150
+Segmenting segment_35.png...
+[segment_35.png][_vs][Progress][Starting segmentation]
+[segment_35.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_35.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_pbfgfwgcpc/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_pbfgfwgcpc\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_pbfgfwgcpc\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_pbfgfwgcpc/output_100.png
+Time elapsed: 238.41 seconds
+[segment_35.png][_vs][Progress][Finished final segmentation with statistic: 3.559937814593749, with regions count: 956]
+Ground image file: segment_35.png, segmented file Jaccard Distance: 0.360136
+Average Jaccard Distance: 0.566653
+Segmenting segment_36.png...
+[segment_36.png][_vs][Progress][Starting segmentation]
+[segment_36.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_36.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qxuqqalcso/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qxuqqalcso\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qxuqqalcso\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qxuqqalcso/output_100.png
+Time elapsed: 81.62 seconds
+[segment_36.png][_vs][Progress][Finished final segmentation with statistic: 5.825469203336557, with regions count: 190]
+Ground image file: segment_36.png, segmented file Jaccard Distance: 0.609877
+Average Jaccard Distance: 0.566962
+Segmenting segment_37.png...
+[segment_37.png][_vs][Progress][Starting segmentation]
+[segment_37.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_37.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vufgikykkm/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vufgikykkm\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vufgikykkm\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vufgikykkm/output_100.png
+Time elapsed: 238.74 seconds
+[segment_37.png][_vs][Progress][Finished final segmentation with statistic: 2.9640430504540354, with regions count: 640]
+Ground image file: segment_37.png, segmented file Jaccard Distance: 0.510342
+Average Jaccard Distance: 0.566560
+Segmenting segment_38.png...
+[segment_38.png][_vs][Progress][Starting segmentation]
+[segment_38.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_38.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_eepyxdnjgl/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_eepyxdnjgl\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_eepyxdnjgl\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_eepyxdnjgl/output_100.png
+Time elapsed: 81.90 seconds
+[segment_38.png][_vs][Progress][Finished final segmentation with statistic: 7.456668580754352, with regions count: 854]
+Ground image file: segment_38.png, segmented file Jaccard Distance: 0.454824
+Average Jaccard Distance: 0.565773
+Segmenting segment_39.png...
+[segment_39.png][_vs][Progress][Starting segmentation]
+[segment_39.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_39.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_akjjuwszds/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_akjjuwszds\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_akjjuwszds\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_akjjuwszds/output_100.png
+Time elapsed: 106.49 seconds
+[segment_39.png][_vs][Progress][Finished final segmentation with statistic: 4.590664421338998, with regions count: 284]
+Ground image file: segment_39.png, segmented file Jaccard Distance: 0.515625
+Average Jaccard Distance: 0.565423
+Segmenting segment_4.png...
+[segment_4.png][_vs][Progress][Starting segmentation]
+[segment_4.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_4.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_zijmagintx/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_zijmagintx\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_zijmagintx\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_zijmagintx/output_100.png
+Time elapsed: 106.56 seconds
+[segment_4.png][_vs][Progress][Finished final segmentation with statistic: 4.247285342948181, with regions count: 121]
+Ground image file: segment_4.png, segmented file Jaccard Distance: 0.566072
+Average Jaccard Distance: 0.565427
+Segmenting segment_40.png...
+[segment_40.png][_vs][Progress][Starting segmentation]
+[segment_40.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_40.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_tsatpwjelp/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_tsatpwjelp\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_tsatpwjelp\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_tsatpwjelp/output_100.png
+Time elapsed: 106.49 seconds
+[segment_40.png][_vs][Progress][Finished final segmentation with statistic: 4.362434084260347, with regions count: 92]
+Ground image file: segment_40.png, segmented file Jaccard Distance: 0.571356
+Average Jaccard Distance: 0.565468
+Segmenting segment_5.png...
+[segment_5.png][_vs][Progress][Starting segmentation]
+[segment_5.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_5.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_cxuortpimd/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_cxuortpimd\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_cxuortpimd\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_cxuortpimd/output_100.png
+Time elapsed: 106.48 seconds
+[segment_5.png][_vs][Progress][Finished final segmentation with statistic: 4.4088138427711625, with regions count: 250]
+Ground image file: segment_5.png, segmented file Jaccard Distance: 0.529084
+Average Jaccard Distance: 0.565219
+Segmenting segment_6.png...
+[segment_6.png][_vs][Progress][Starting segmentation]
+[segment_6.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_6.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_dnivdkggks/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_dnivdkggks\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_dnivdkggks\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_dnivdkggks/output_100.png
+Time elapsed: 106.63 seconds
+[segment_6.png][_vs][Progress][Finished final segmentation with statistic: 3.170273398922988, with regions count: 329]
+Ground image file: segment_6.png, segmented file Jaccard Distance: 0.372295
+Average Jaccard Distance: 0.563906
+Segmenting segment_7.png...
+[segment_7.png][_vs][Progress][Starting segmentation]
+[segment_7.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_7.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_ecrkilsevr/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_ecrkilsevr\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_ecrkilsevr\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_ecrkilsevr/output_100.png
+Time elapsed: 124.05 seconds
+[segment_7.png][_vs][Progress][Finished final segmentation with statistic: 6.60316247508359, with regions count: 811]
+Ground image file: segment_7.png, segmented file Jaccard Distance: 0.563438
+Average Jaccard Distance: 0.563903
+Segmenting segment_8.png...
+[segment_8.png][_vs][Progress][Starting segmentation]
+[segment_8.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_8.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_qppdazmufk/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_qppdazmufk\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_qppdazmufk\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_qppdazmufk/output_100.png
+Time elapsed: 106.44 seconds
+[segment_8.png][_vs][Progress][Finished final segmentation with statistic: 4.680992858740008, with regions count: 129]
+Ground image file: segment_8.png, segmented file Jaccard Distance: 0.539147
+Average Jaccard Distance: 0.563737
+Segmenting segment_9.png...
+[segment_9.png][_vs][Progress][Starting segmentation]
+[segment_9.png][_vs][Progress][Starting final segmentation]
+Scaling data/parsed_dataset_test/original\segment_9.png to 100 percent.
+Segmentation start data/segmented_simple\8\temp_vweasrvysy/output_100.png
+input_file_name = output_100.png, output_grey_file_name = data/segmented_simple\8\temp_vweasrvysy\output_100_segmented_grey_8.png, output_binary_file_name = data/segmented_simple\8\temp_vweasrvysy\output_100_segmented_binary_8.png
+Segmentation end data/segmented_simple\8\temp_vweasrvysy/output_100.png
+Time elapsed: 106.39 seconds
+[segment_9.png][_vs][Progress][Finished final segmentation with statistic: 4.230136769336837, with regions count: 245]
+Ground image file: segment_9.png, segmented file Jaccard Distance: 0.595321
+Average Jaccard Distance: 0.563948

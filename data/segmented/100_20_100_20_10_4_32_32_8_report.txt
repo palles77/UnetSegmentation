@@ -1,0 +1,34 @@
+﻿Directory Analysis Report
+=========================
+Directory Name: 100_20_100_20_10_4_32_32_8
+
+Parameters:
+-----------
+Training Images: 100
+Min Rough Segmentation Percentage: 20%
+Max Rough Segmentation Percentage: 100%
+Rough Segmentation Step: 20%
+Optimal Segmentation Range: plus minus 10%
+Detailed Segmentation Range: plus minus 4%
+Rough Segmentation Window Step: 32
+Detailed Segmentation Window Step: 32
+Final Optimal Segmentation Window Step: 8
+
+Processing Time Summary:
+------------------------
+Total Time Elapsed: 11,784.1800 seconds
+
+Segmentation Quality Analysis (Jaccard Distance):
+-------------------------------------------------
+Total Samples: 150
+Average Jaccard Distance: 0.6099
+Standard Deviation: 0.0727
+Minimum Jaccard Distance: 0.2823
+Maximum Jaccard Distance: 0.7516
+
+Interpretation:
+---------------
+- A lower Jaccard Distance means better segmentation accuracy.
+- A high standard deviation suggests variability in segmentation performance.
+- If the average Jaccard Distance is close to 0, the model performed well.
+- If the maximum Jaccard Distance is high, some images were segmented poorly.
