@@ -1,25 +1,32 @@
-# Define the URL, output path, and extraction path
-$url = "http://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/DRHAGIS.zip"
+# Define the Google Drive file ID, output path, and extraction path
+$googleDriveFileId = "1evUdkjj0tH4Nl2mEvtNz4vtVROfI5CKb"
 $outputPath = "downloaded_drhagis.zip"
 $extractPath = "extracted_files"
 
-# Function to download the file
-Function Download-File {
+# Function to download a public Google Drive file
+Function Download-GoogleDriveFile {
     param (
-        [string]$Url,
+        [string]$FileId,
         [string]$OutputPath
     )
 
-    $fileExists = Test-Path $OutputPath
-    Write-Host "Checking if file $OutputPath already exists... and the result is: $fileExists"
-    if ($fileExists) {
-        Write-Host "File $OutputPath already exists. Skipping download."
+    $url = "https://drive.google.com/uc?export=download&id=$FileId"
+    $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
+
+    # Initial request to get the confirmation token (if needed)
+    $response = Invoke-WebRequest -Uri $url -WebSession $session -UseBasicParsing
+
+    if ($response.Content -match 'confirm=([0-9A-Za-z_]+)') {
+        $confirm = $matches[1]
+        $downloadUrl = "https://drive.google.com/uc?export=download&confirm=$confirm&id=$FileId"
+        Invoke-WebRequest -Uri $downloadUrl -OutFile $OutputPath -WebSession $session -UseBasicParsing
     } else {
-        Write-Host "Downloading file from $Url..."
-        Invoke-WebRequest -Uri $Url -OutFile $OutputPath -UseBasicParsing
-        Write-Host "File downloaded successfully to $OutputPath"
+        # For small files, direct download
+        Invoke-WebRequest -Uri $url -OutFile $OutputPath -WebSession $session -UseBasicParsing
     }
+    Write-Host "File downloaded successfully to $OutputPath"
 }
+
 # Function to decompress the file
 Function Decompress-File {
     param (
@@ -33,7 +40,14 @@ Function Decompress-File {
 }
 
 # Main script execution
-Download-File -Url $url -OutputPath $outputPath
+$fileExists = Test-Path $outputPath
+Write-Host "Checking if file $outputPath already exists... and the result is: $fileExists"
+if ($fileExists) {
+    Write-Host "File $outputPath already exists. Skipping download."
+} else {
+    Write-Host "Downloading file from Google Drive..."
+    Download-GoogleDriveFile -FileId $googleDriveFileId -OutputPath $outputPath
+}
 
 # Create the target directory if it doesn't exist
 if (!(Test-Path -Path $extractPath)) {
