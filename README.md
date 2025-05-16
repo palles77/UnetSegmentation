@@ -1,6 +1,10 @@
 # Hybrid U-Net Segmentation
 Hybrid U-Net segmentation of vessels in fundus eye images
 
+#Cloning
+
+You need GIT-LFS installed in order to clone this repository
+
 # Preparing the environment
 
 1. Install Anaconda with the latest version of Python (in our case it was Python 3.8.20)
