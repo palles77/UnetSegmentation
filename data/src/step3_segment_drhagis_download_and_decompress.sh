@@ -1,31 +1,25 @@
 #!/usr/bin/env bash
 
-# Define the URL, output path, and extraction path
-url="http://personalpages.manchester.ac.uk/staff/niall.p.mcloughlin/DRHAGIS.zip"
+# Define the Google Drive file ID, output path, and extraction path
+gdrive_id="1evUdkjj0tH4Nl2mEvtNz4vtVROfI5CKb"
 outputPath="downloaded_drhagis.zip"
 extractPath="extracted_files"
 
 # ---------------------------------------
-# Function: download_file
+# Function: download_file_from_gdrive
 # ---------------------------------------
-# Checks if the specified file already exists.
-# If not, downloads it from the URL.
+# Downloads a file from Google Drive using its file ID.
 # ---------------------------------------
-download_file() {
-  local url="$1"
+download_file_from_gdrive() {
+  local file_id="$1"
   local outputPath="$2"
 
-  echo "Checking if file '$outputPath' already exists..."
-  if [[ -f "$outputPath" ]]; then
-    echo "File '$outputPath' already exists. Skipping download."
-  else
-    echo "Downloading file from '$url'..."
-    # Option 1: curl
-    curl -L -o "$outputPath" "$url"
-    # Option 2 (alternative): wget
-    # wget -O "$outputPath" "$url"
-    echo "File downloaded successfully to '$outputPath'."
-  fi
+  echo "Downloading file from Google Drive (ID: $file_id)..."
+  # This method handles the confirmation token for large files
+  confirm=$(curl -sc /tmp/gcookie "https://drive.google.com/uc?export=download&id=${file_id}" | \
+    grep -o 'confirm=[^&]*' | sed 's/confirm=//')
+  curl -Lb /tmp/gcookie "https://drive.google.com/uc?export=download&confirm=${confirm}&id=${file_id}" -o "${outputPath}"
+  echo "File downloaded successfully to '${outputPath}'."
 }
 
 # ---------------------------------------
@@ -38,7 +32,6 @@ decompress_file() {
   local extractPath="$2"
 
   echo "Decompressing file '$filePath'..."
-  # Using unzip for zip files
   unzip -o "$filePath" -d "$extractPath"
   echo "File decompressed successfully to '$extractPath'."
 }
@@ -47,8 +40,12 @@ decompress_file() {
 # Main Script Execution
 # ---------------------------------------
 
-# 1) Download the file if needed
-download_file "$url" "$outputPath"
+# 1) Download the file from Google Drive if needed
+if [[ -f "$outputPath" ]]; then
+  echo "File '$outputPath' already exists. Skipping download."
+else
+  download_file_from_gdrive "$gdrive_id" "$outputPath"
+fi
 
 # 2) Create the target directory if it doesn't exist
 if [[ ! -d "$extractPath" ]]; then
