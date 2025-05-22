@@ -36,3 +36,4 @@ output_*.png
 !cnn_model_20250214_222252.zip
 !unet_model_20250224_183427.zip
 !cnn_model_20250224_222300.zip
+data/segmented/test_all/summary.txt

@@ -30,7 +30,7 @@ pip install -r src/requirements.txt
 
 # Downloading the data
 
-Refer to [src/data/README.md](src/data/README.md)
+Refer to [data/README.md](data/README.md)
 
 # Recipe
 
