@@ -1,7 +1,7 @@
 # Hybrid U-Net Segmentation
 Hybrid U-Net segmentation of vessels in fundus eye images
 
-#Cloning
+# Cloning
 
 You need GIT-LFS installed in order to clone this repository
 
@@ -30,13 +30,15 @@ pip install -r src/requirements.txt
 
 # Downloading the data
 
-Refer to [Datasets/Readme.md](Datasets/Readme.md)
+Refer to [Data/Readme.md](Datasets/Readme.md)
 
 # Recipe
 
 File [.vscode/launch.json](.vscode/launch.json)
 * Step 1. Python: Clean up directories and files
+Run this step to make sure all your data has been removed prior to your training.
 * Step 2. Python: Generate tensor data for training step
+
 * Step 3. Python: Train unet for vessels segmentation
 * Step 4. Python: cnn vessels segmentation assessment data preparation
 * Step 5. Python: cnn vessels segmentation training
@@ -45,4 +47,4 @@ File [.vscode/launch.json](.vscode/launch.json)
 * Step 8. Python: Segment simple vessels with trained UNET and trained CNN in batches of parameters
 
 ## Last update
-2025/03/31
+2025/05/22

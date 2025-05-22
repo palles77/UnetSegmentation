@@ -89,7 +89,6 @@
                 "--segmentation-output-dir=data/segmented/test_all",
                 "--segmentation-summary-file=data/segmented/test_all/summary.txt",
                 "--unet-model-file=data/models/unet_model_20250212_002522/unet_model_weights_vs.pt",
-                "--cnn-model-file=data/models/cnn_model_20250214_222252/cnn_model_weights_vs.pt",
                 "--batch-size=2048",
                 "--segment-rough-percent-step-1=20",
                 "--segment-rough-percent-step-2=4",
