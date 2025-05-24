@@ -4,6 +4,7 @@
 gdrive_id="1evUdkjj0tH4Nl2mEvtNz4vtVROfI5CKb"
 outputPath="downloaded_drhagis.zip"
 extractPath="extracted_files"
+expectedSize=10463309
 
 # ---------------------------------------
 # Function: download_file_from_gdrive
@@ -18,7 +19,7 @@ download_file_from_gdrive() {
   # This method handles the confirmation token for large files
   confirm=$(curl -sc /tmp/gcookie "https://drive.google.com/uc?export=download&id=${file_id}" | \
     grep -o 'confirm=[^&]*' | sed 's/confirm=//')
-  curl -Lb /tmp/gcookie "https://drive.google.com/uc?export=download&confirm=${confirm}&id=${file_id}" -o "${outputPath}"
+  curl -# -Lb /tmp/gcookie "https://drive.google.com/uc?export=download&confirm=${confirm}&id=${file_id}" -o "${outputPath}"
   echo "File downloaded successfully to '${outputPath}'."
 }
 
@@ -32,7 +33,7 @@ decompress_file() {
   local extractPath="$2"
 
   echo "Decompressing file '$filePath'..."
-  unzip -o "$filePath" -d "$extractPath"
+  unzip -v -o "$filePath" -d "$extractPath"
   echo "File decompressed successfully to '$extractPath'."
 }
 

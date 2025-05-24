@@ -1,4 +1,4 @@
-﻿Directory Analysis Report
+Directory Analysis Report
 =========================
 Directory Name: 100_20_100_20_10_4_128_64_16
 

@@ -1,4 +1,4 @@
-﻿Directory Analysis Report
+Directory Analysis Report
 =========================
 Directory Name: 900_20_100_20_10_4_64_32_16
 

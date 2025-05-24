@@ -4,12 +4,13 @@
 url="https://www5.cs.fau.de/fileadmin/research/datasets/fundus-images/all.zip"
 outputPath="downloaded_hrf.zip"
 extractPath="extracted_files/hrf"
+expectedSize=73317613
 
 # ---------------------------------------
 # Function: download_file
 # ---------------------------------------
 # Checks if the specified file already exists.
-# If not, downloads it from the provided URL.
+# If not, downloads it from the provided URL with progress reporting.
 # ---------------------------------------
 download_file() {
   local url="$1"
@@ -20,7 +21,8 @@ download_file() {
     echo "File '$outputPath' already exists. Skipping download."
   else
     echo "Downloading file from '$url'..."
-    curl -L -o "$outputPath" "$url"
+    # Show progress bar with curl
+    curl -L --progress-bar -o "$outputPath" "$url"
     echo "File downloaded successfully to '$outputPath'."
   fi
 }
@@ -28,15 +30,17 @@ download_file() {
 # ---------------------------------------
 # Function: decompress_file
 # ---------------------------------------
-# Decompresses the given .zip file to the specified folder.
+# Decompresses the given .zip file to the specified folder with progress reporting.
 # ---------------------------------------
 decompress_file() {
   local filePath="$1"
   local extractPath="$2"
 
   echo "Decompressing file '$filePath'..."
-  # Using unzip for zip files
-  unzip -o "$filePath" -d "$extractPath"
+  # Using unzip with verbose output for progress
+  unzip -o "$filePath" -d "$extractPath" | while read -r line; do
+    echo "  $line"
+  done
   echo "File decompressed successfully to '$extractPath'."
 }
 

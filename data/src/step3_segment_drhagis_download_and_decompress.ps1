@@ -15,16 +15,7 @@ Function Download-GoogleDriveFile {
     $baseUrl = "https://drive.google.com/uc?export=download&id=$FileId"
     $session = New-Object Microsoft.PowerShell.Commands.WebRequestSession
 
-    # First request: only get HTML to check for confirm token, do NOT download file
-    $response = Invoke-WebRequest -Uri $baseUrl -WebSession $session -UseBasicParsing -Method Get -Headers @{ "Range" = "bytes=0-1023" }
-    $responseContent = $response.Content
-
-    if ($responseContent -match 'confirm=([0-9A-Za-z_]+)') {
-        $confirm = $matches[1]
-        $downloadUrl = "https://drive.google.com/uc?export=download&confirm=$confirm&id=$FileId"
-    } else {
-        $downloadUrl = $baseUrl
-    }
+    $downloadUrl = "https://drive.google.com/uc?export=download&confirm=$confirm&id=$FileId"
 
     # Now, download the file in a single pass with progress
     $request = [System.Net.HttpWebRequest]::Create($downloadUrl)
@@ -38,7 +29,7 @@ Function Download-GoogleDriveFile {
     $responseStream = $request.GetResponse().GetResponseStream()
     $fileStream = [System.IO.File]::Open($OutputPath, [System.IO.FileMode]::Create)
 
-    $bufferSize = 1MB
+    $bufferSize = 10KB
     $buffer = New-Object byte[] $bufferSize
     $totalRead = 0
 
