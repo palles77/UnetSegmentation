@@ -7,6 +7,35 @@ extractPath="extracted_files"
 expectedSize=10463309
 
 # ---------------------------------------
+# Function: check_and_install_unzip
+# ---------------------------------------
+# Checks if 'unzip' is installed; installs it if not found.
+# ---------------------------------------
+check_and_install_unzip() {
+  if ! command -v unzip &> /dev/null; then
+    echo "'unzip' not found. Attempting to install..."
+    if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+      if command -v apt-get &> /dev/null; then
+        sudo apt-get update && sudo apt-get install -y unzip
+      elif command -v yum &> /dev/null; then
+        sudo yum install -y unzip
+      else
+        echo "No supported package manager found. Please install 'unzip' manually."
+        exit 1
+      fi
+    elif [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+      echo "Please install 'unzip' manually on Windows (e.g., via Chocolatey: 'choco install unzip')."
+      exit 1
+    else
+      echo "Unsupported OS. Please install 'unzip' manually."
+      exit 1
+    fi
+  else
+    echo "'unzip' is already installed."
+  fi
+}
+
+# ---------------------------------------
 # Function: download_file_from_gdrive
 # ---------------------------------------
 # Downloads a file from Google Drive using its file ID.
@@ -33,13 +62,16 @@ decompress_file() {
   local extractPath="$2"
 
   echo "Decompressing file '$filePath'..."
-  unzip -v -o "$filePath" -d "$extractPath"
+  unzip -o "$filePath" -d "$extractPath"
   echo "File decompressed successfully to '$extractPath'."
 }
 
 # ---------------------------------------
 # Main Script Execution
 # ---------------------------------------
+
+# Check for unzip and install if necessary
+check_and_install_unzip
 
 # 1) Download the file from Google Drive if needed
 if [[ -f "$outputPath" ]]; then
