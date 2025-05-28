@@ -16,7 +16,7 @@
         {
             "args": [
                 "--generate",
-                "--maximum-generation-img-count=900"
+                "--maximum-generation-img-count=50"
             ],
             "cwd": "${workspaceFolder}",
             "env": {
@@ -26,11 +26,11 @@
             "program": "src/Main.py",
             "request": "launch",
             "type": "debugpy"
-        },        
+        },
         {
             "args": [
                 "--train",
-                "--epochs=20"
+                "--epochs=5"
             ],
             "cwd": "${workspaceFolder}",
             "env": {
@@ -51,8 +51,8 @@
                 "--segment-rough-percent-step-1=10",
                 "--segmentation-training-dir=data/segmented/fives/training",
                 "--segmentation-output-dir=data/segmented/fives",
-                "--segmentation-dbl-file=data/parsed_dataset/fives/cnn_train/list_all.dbl",
-                "--unet-model-file=data/models/unet_model_20250212_002522/unet_model_weights_vs.pt",
+                "--segmentation-dbl-file=data/parsed_dataset/fives/cnn_train/list_short.dbl",
+                "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
             ],
             "cwd": "${workspaceFolder}",
             "env": {
@@ -88,11 +88,11 @@
                 "--segmentation-dbl-file=data/parsed_dataset_test/list.dbl",
                 "--segmentation-output-dir=data/segmented/test_all",
                 "--segmentation-summary-file=data/segmented/test_all/summary.txt",
-                "--unet-model-file=data/models/unet_model_20250212_002522/unet_model_weights_vs.pt",
+                "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
                 "--batch-size=2048",
-                "--segment-rough-percent-step-1=20",
-                "--segment-rough-percent-step-2=4",
-                "--segment-rough-interval=10"
+                "--segment-rough-percent-step-1=25",
+                "--segment-rough-percent-step-2=5",
+                "--segment-rough-interval=5"
             ],
             "cwd": "${workspaceFolder}",
             "env": {
@@ -143,10 +143,9 @@
             "program": "src/Main.py",
             "request": "launch",
             "type": "debugpy"
-        },        
+        },
         {
-            "args": [
-            ],
+            "args": [],
             "cwd": "${workspaceFolder}",
             "env": {
                 "PYTHONPATH": "${workspaceFolder}"
@@ -157,6 +156,5 @@
             "type": "debugpy"
         }
     ],
-
     "version": "0.2.0"
 }
