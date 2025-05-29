@@ -109,7 +109,7 @@ To speed up testing we modify typical values from lines 94 to 985 to the followi
                 "--segment-rough-sliding-step-2=64",
                 "--segment-detailed-sliding-step=32"
 ```
-Typical recommended values would be set to 20, 4, 10, 40, 64, 32, 16 for these parameters.
+Typical recommended values would be set to 20, 4, 10, 20, 100, 64, 32, 16 for these parameters.
 
 * Step 7. Python: Segment complex vessels with trained UNET and trained CNN in batches of parameters.
 
