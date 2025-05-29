@@ -89,10 +89,13 @@
                 "--segmentation-output-dir=data/segmented/test_all",
                 "--segmentation-summary-file=data/segmented/test_all/summary.txt",
                 "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
+                "--cnn-model-file=data/models/cnn_model_20250529_005118/cnn_model_weights_vs.pt",
                 "--batch-size=2048",
-                "--segment-rough-percent-step-1=25",
+                "--segment-rough-percent-step-1=30",
                 "--segment-rough-percent-step-2=5",
-                "--segment-rough-interval=5"
+                "--segment-rough-interval=5",
+                "--segment-min-percent-scale=40",
+                "--segment-max-percent-scale=100"
             ],
             "cwd": "${workspaceFolder}",
             "env": {
@@ -110,8 +113,8 @@
                 "--segmentation-input-ground-dir=data/parsed_dataset_test/ground",
                 "--segmentation-dbl-file=data/parsed_dataset_test/list.dbl",
                 "--segmentation-output-dir=data/segmented",
-                "--unet-model-file=data/models/unet_model_20250212_002522/unet_model_weights_vs.pt",
-                "--cnn-model-file=data/models/cnn_model_20250214_222252/cnn_model_weights_vs.pt",
+                "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
+                "--cnn-model-file=data/models/cnn_model_20250529_005118/cnn_model_weights_vs.pt",
                 "--batch-size=12288",
                 "--segment-multiple-params=900_20_100_20_10_4_32_16_8,900_20_100_20_10_4_16_16_8"
             ],

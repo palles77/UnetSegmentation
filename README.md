@@ -32,6 +32,14 @@ pip install -r src/requirements.txt
 
 Refer to [data/README.md](data/README.md)
 
+# Models extract
+
+Refer to [data/models/README.md](data/models/README.md).
+The models:
+* [data/models/cnn_model_20250529_005118.zip](data/models/cnn_model_20250529_005118.zip)
+* [data/models/unet_model_20250529_005118.zip](data/models/unet_model_20250529_005118.zip)
+are necessary to run points Step 4, Step 5, Step 6, Step 7, Step 8 from the recipe below (assuming steps 2, and 3 for training are skipped).
+
 # Recipe
 
 Note: Keep in mind that recipe below is a very quick training recipe. The recommended values are mentioned in each step, but one can use the default values stored in file [.vscode/launch.json](.vscode/launch.json) to test if the solution works.
@@ -52,7 +60,7 @@ In current version of [.vscode/launch.json](.vscode/launch.json) in line 33
 ```
                 "--epochs=5"
 ```
-we decided to use only 5 epochs for training U-Net. This is to allow for quick testing of our solution. Under full conditions we are looking at values such as 10, or more (typically 20). The result of this step is a model stored in a directory [models/unet_model_20250529_000149](models/unet_model_20250529_000149) - here is the name of the directory run at 2025/05/29 at 00:01:49. This value needs to be applied to line 55 of launch.json so we can proceed to step 4. 
+we decided to use only 5 epochs for training U-Net. This is to allow for quick testing of our solution. Under full conditions we are looking at values such as 10, or more (typically 20). The result of this step is a model stored in a directory [models/unet_model_20250529_000149](models/unet_model_20250529_000149) - here is the name of the directory run at 2025/05/29 at 00:01:49. This value needs to be applied to line 55 of [.vscode/launch.json](.vscode/launch.json) so we can proceed to step 4. 
 ```
                 "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
 ```
@@ -63,7 +71,7 @@ To run this step on a machine with GPU should take a few minutes.
 For step 4 we need to modify list of files which are considered for CNN training. We are normally training CNN under 300 images from FIVES data. Currently we have two files:
 * [data/parsed_dataset/fives/cnn_train/list_all.dbl](data/parsed_dataset/fives/cnn_train/list_all.dbl) - 300 images for training CNN
 * [data/parsed_dataset/fives/cnn_train/list_short.dbl](data/parsed_dataset/fives/cnn_train/list_short.dbl) - 25 images for training CNN
-epochs. In our scenario we use list_short.dbl, hence the line 54 in launch.json looks like:
+epochs. In our scenario we use list_short.dbl, hence the line 54 in [.vscode/launch.json](.vscode/launch.json) looks like:
 ```
                 "--segmentation-dbl-file=data/parsed_dataset/fives/cnn_train/list_short.dbl",
 ```
@@ -72,7 +80,7 @@ To run this step on a machine with GPU might take around 20 minutes.
 
 * Step 5. Python: cnn vessels segmentation training
 
-For step 5 we need to modify line 70 in launch.json to have a value of 15. Typically this value can be even higher, for example 30.
+For step 5 we need to modify line 70 in [.vscode/launch.json](.vscode/launch.json) to have a value of 15. Typically this value can be even higher, for example 30.
 ```
                 "--epochs=15",
 ```
@@ -80,24 +88,44 @@ The outcome of this step will be stored in a directory models. For example our C
 
 * Step 6. Python: Segment vessels with trained UNET and trained CNN
 
-In this step we will finally do the segmentation testing on a joint validation dataset (DRHAGIS, HRF and STARE - total of 105 images). For that purpose we need to apply model generated step 3 into launch.json into line 91
+In this step we will finally do the segmentation testing on a joint validation dataset (DRHAGIS, HRF and STARE - total of 105 images). For that purpose we need to apply model generated step 3 into [.vscode/launch.json](.vscode/launch.json) into lines 91, and 92.
 ```
-                "--unet-model-file=data/models/unet_model_20250212_002522/unet_model_weights_vs.pt",
+                "--unet-model-file=data/models/unet_model_20250529_000149/unet_model_weights_vs.pt",
+                "--cnn-model-file=data/models/cnn_model_20250529_005118/cnn_model_weights_vs.pt",
 ```
-Line 92 might need to be modified experimentally to work on GPUs with memory lower than 8GB. The value of batch_size set to 2048 can for example be changed to 1024 for a machine with GPU of 4 GB.
+Line 93 might need to be modified experimentally to work on GPUs with memory lower than 8GB. The value of batch_size set to 2048 can for example be changed to 1024 for a machine with GPU of 4 GB.
 ```
                 "--batch-size=2048",
 ```
-To speed up testing we modify typical values from lines 93 to 95 to the following
+To speed up testing we modify typical values from lines 94 to 985 to the following
 ```
-                "--segment-rough-percent-step-1=25",
+                "--segment-rough-percent-step-1=30",
                 "--segment-rough-percent-step-2=5",
-                "--segment-rough-interval=5"
+                "--segment-rough-interval=5",
+                "--segment-min-percent-scale=40",
+                "--segment-max-percent-scale=100"
 ```
-Typical recommended values would be set to 20, 4 and 10 for these parameters.
+Typical recommended values would be set to 20, 4, 10, 40 and 100 for these parameters.
 
-* Step 7. Python: Segment complex vessels with trained UNET and trained CNN in batches of parameters
+* Step 7. Python: Segment complex vessels with trained UNET and trained CNN in batches of parameters.
+
+This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 119 of [.vscode/launch.json](.vscode/launch.json)  
+```
+                "--segment-multiple-params=900_20_100_20_10_4_32_16_8,900_20_100_20_10_4_16_16_8"
+``` 
+The code responsible for this parameter analysis is in function segment_local_files_list_by_specific_model_multiple_times().
+Make sure the models used processing are set the same way as in Step 6 to test under the same conditions the same model.
+This step per single entry in the list from line 119 takes sometimes a few hours on a machine with GPU.
+
 * Step 8. Python: Segment simple vessels with trained UNET and trained CNN in batches of parameters
 
-## Last update
-2025/05/22
+This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 139 of [.vscode/launch.json](.vscode/launch.json) 
+```
+                "--segment-simple-multiple-params=8_4"
+``` 
+The code responsible for this parameter analysis is in function segment_simple_local_files_list_by_specific_model_multiple_times().
+Make sure the models used processing are set the same way as in Step 6 to test under the same conditions the same model.
+This step per single entry in the list from line 119 takes sometimes a few hours on a machine with GPU.
+
+# Last update
+2025/05/29
