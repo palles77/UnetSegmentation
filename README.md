@@ -104,13 +104,16 @@ To speed up testing we modify typical values from lines 94 to 985 to the followi
                 "--segment-rough-percent-step-2=5",
                 "--segment-rough-interval=5",
                 "--segment-min-percent-scale=40",
-                "--segment-max-percent-scale=100"
+                "--segment-max-percent-scale=100",
+                "--segment-rough-sliding-step-1=128",
+                "--segment-rough-sliding-step-2=64",
+                "--segment-detailed-sliding-step=32"
 ```
-Typical recommended values would be set to 20, 4, 10, 40 and 100 for these parameters.
+Typical recommended values would be set to 20, 4, 10, 40, 64, 32, 16 for these parameters.
 
 * Step 7. Python: Segment complex vessels with trained UNET and trained CNN in batches of parameters.
 
-This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 119 of [.vscode/launch.json](.vscode/launch.json)  
+This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 122 of [.vscode/launch.json](.vscode/launch.json)  
 ```
                 "--segment-multiple-params=900_20_100_20_10_4_32_16_8,900_20_100_20_10_4_16_16_8"
 ``` 
@@ -120,7 +123,7 @@ This step per single entry in the list from line 119 takes sometimes a few hours
 
 * Step 8. Python: Segment simple vessels with trained UNET and trained CNN in batches of parameters
 
-This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 139 of [.vscode/launch.json](.vscode/launch.json) 
+This step is used for batches segmentation of U-Net using Hybrin U-Net segmentation. Used for article experimentation. More careful code analysis here is needed to understand how this code works. Most important settings are stored in line 142 of [.vscode/launch.json](.vscode/launch.json) 
 ```
                 "--segment-simple-multiple-params=8_4"
 ``` 

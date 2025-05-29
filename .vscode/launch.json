@@ -95,7 +95,10 @@
                 "--segment-rough-percent-step-2=5",
                 "--segment-rough-interval=5",
                 "--segment-min-percent-scale=40",
-                "--segment-max-percent-scale=100"
+                "--segment-max-percent-scale=100",
+                "--segment-rough-sliding-step-1=128",
+                "--segment-rough-sliding-step-2=64",
+                "--segment-detailed-sliding-step=32",
             ],
             "cwd": "${workspaceFolder}",
             "env": {
