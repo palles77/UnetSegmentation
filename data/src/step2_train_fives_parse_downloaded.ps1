@@ -69,6 +69,7 @@ Convert-DownloadedFiles -originalDir $testOriginalDir -groundTruthDir $testGroun
 
 Set-Location "parsed_dataset\fives\cnn_train\ground"
 Get-ChildItem -Name *.png | Out-File -FilePath "..\list_all.dbl" -Encoding ascii
+Get-Content "..\list_all.dbl" | Select-Object -First 25 | Set-Content "..\list_short.dbl"
 Set-Location "..\..\..\.."
 
 Write-Host "File copying and renaming completed!"

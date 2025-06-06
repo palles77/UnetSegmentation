@@ -80,6 +80,7 @@ convert_downloaded_files "$testOriginalDir" "$testGroundTruthDir" "$targetDir" "
 
 cd "${targetDir}/fives/cnn_train/ground"
 ls -1 *.png > ../list_all.dbl
+head -n 25 ../list_all.dbl > ../list_short.dbl
 cd ../../../..
 
 echo "File copying and renaming completed!"
